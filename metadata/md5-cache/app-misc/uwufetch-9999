@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
+DEPEND=gpu? ( sys-apps/lshw ) viu? ( media-gfx/viu )
+DESCRIPTION=A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
+EAPI=7
+HOMEPAGE=https://github.com/TheDarkBug/uwufetch
+INHERIT=git-r3
+IUSE=gpu viu
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=gpu? ( sys-apps/lshw ) viu? ( media-gfx/viu )
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=c69b4bb7e45ee34dc648d1c522156193

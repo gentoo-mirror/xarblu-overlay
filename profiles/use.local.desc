@@ -1,0 +1,8 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-emulation/waydroid:clipboard - Enable clipboard sharing via dev-python/pyclip
+app-misc/pueue:fish-completion - Enable fish completion support.
+media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
+media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
