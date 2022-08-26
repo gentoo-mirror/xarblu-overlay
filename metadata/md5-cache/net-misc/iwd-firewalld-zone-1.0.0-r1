@@ -1,0 +1,14 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install postinst
+DESCRIPTION=Automatically move wireless interface into firewalld zone based on setting in relevant iwd network file
+EAPI=8
+HOMEPAGE=https://github.com/techhazard/iwd-firewalld-zone
+INHERIT=systemd python-r1
+IUSE=python_targets_python3_9 python_targets_python3_10 python_targets_python3_11
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=net-wireless/iwd net-firewall/firewalld dev-python/dbus-python
+SLOT=0
+SRC_URI=https://github.com/techhazard/iwd-firewalld-zone/archive/1.0.0.tar.gz -> iwd-firewalld-zone-1.0.0.tar.gz
+_eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	systemd	2736b403a83f194b59b767f3b344c2c1	multibuild	d26d81f242cb193d899a72bca423d0bd	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	python-utils-r1	dd5e1098e305ad508d21f496e9e37046	python-r1	2d51fd03931e743811ce30d198e4dcfd
+_md5_=c8667e1015b7064d4505cce9b0148169
