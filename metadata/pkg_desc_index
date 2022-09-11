@@ -10,4 +10,4 @@ games-util/evdevhook 2021.11.21: libevdev based DSU/cemuhook joystick server
 kde-misc/kwin-effects-yet-another-magic-lamp 5.24.0 5.25.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-sound/qpwgraph 0.3.1 0.3.2 0.3.3 0.3.4 0.3.5 9999: A PipeWire Graph Qt GUI Interface
 net-misc/iwd-firewalld-zone 1.0.0-r1: Automatically move wireless interface into firewalld zone based on setting in relevant iwd network file
-www-misc/profile-sync-daemon 6.44 6.45 6.47: Symlinks and syncs browser profile dirs to RAM
+www-misc/profile-sync-daemon 6.44 6.45 6.47 6.48: Symlinks and syncs browser profile dirs to RAM
