@@ -7,3 +7,5 @@ app-misc/pueue:fish-completion - Enable fish completion support.
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
 media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
 sys-kernel/kernelscripts:eclean-kernel - Install app-admin/eclean-kernel to help remove sparse files
+www-apps/jellyfin:intro-skipper - Build custom jellyfin-web for the intro-skipper plugin.
+www-apps/jellyfin:jellyscrub - Setup index.html for the jellyscrub plugin.
