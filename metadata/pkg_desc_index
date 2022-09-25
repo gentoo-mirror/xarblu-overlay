@@ -3,7 +3,7 @@ app-misc/e621_downloader 1.7.0-r1 1.7.1: E621 and E926 downloader made in the Ru
 app-misc/macchina 6.1.5-r1: A system information fetcher, with an (unhealthy) emphasis on performance.
 app-misc/pueue 2.1.0: A CLI tool for managing long running shell commands.
 app-misc/topgrade 9.0.1: Upgrade all the things
-app-misc/uwufetch 1.6 1.7 9999: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
+app-misc/uwufetch 1.6 1.7 2.0 9999: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
 dev-python/pipx 1.1.0: Install and Run Python Applications in Isolated Environments
 dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user PATH, no elevated privileges required!
