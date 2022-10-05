@@ -5,13 +5,18 @@ app-misc/pueue 2.1.0: A CLI tool for managing long running shell commands.
 app-misc/topgrade 9.0.1: Upgrade all the things
 app-misc/uwufetch 1.7 2.0 9999: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
+dev-python/jellyfin-apiclient-python 1.9.2: Python API Client for Jellyfin
 dev-python/pipx 1.1.0: Install and Run Python Applications in Isolated Environments
+dev-python/pystray 0.19.4: Python library for creating system tray icons
+dev-python/python-mpv-jsonipc 1.1.13: Python API to MPV using JSON IPC
 dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user PATH, no elevated privileges required!
 games-misc/lolcat-jaseg 1.2: High-performance implementation of lolcat
 games-util/evdevhook 2021.11.21: libevdev based DSU/cemuhook joystick server
 kde-misc/kwin-effects-yet-another-magic-lamp 5.24.0 5.25.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/twemoji 14.0.2: A color emoji font with a flat visual style, designed and used by Twitter
 media-sound/qpwgraph 0.3.6 9999: A PipeWire Graph Qt GUI Interface
+media-video/jellyfin-mpv-shim 2.2.0: MPV Cast Client for Jellyfin
+media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 net-misc/iwd-firewalld-zone 1.0.0-r1: Automatically move wireless interface into firewalld zone based on setting in relevant iwd network file
 sys-kernel/kernelscripts 1.2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/xanmod-sources 5.19.12 6.0.0: Full XanMod sources including the Gentoo patchset

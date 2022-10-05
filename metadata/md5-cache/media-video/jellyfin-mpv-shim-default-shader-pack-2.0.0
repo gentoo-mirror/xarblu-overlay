@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Preconfigured set of MPV shaders and configs for MPV Shim media clients.
+EAPI=8
+HOMEPAGE=https://github.com/iwalton3/default-shader-pack
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT LGPL-3 Unlicense
+SLOT=0
+SRC_URI=https://github.com/iwalton3/default-shader-pack/archive/v2.0.0.tar.gz -> jellyfin-mpv-shim-default-shader-pack-2.0.0.tar.gz
+_md5_=4ff85d330057ac816c9569e0f64c2a7f
