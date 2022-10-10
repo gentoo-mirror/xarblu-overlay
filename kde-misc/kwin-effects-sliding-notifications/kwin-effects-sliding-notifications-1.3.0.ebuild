@@ -5,8 +5,8 @@ EAPI=7
 
 inherit cmake
 
-DESCRIPTION="Just Yet Another Magic Lamp effect for KWin"
-HOMEPAGE="https://github.com/zzag/kwin-effects-yet-another-magic-lamp"
+DESCRIPTION="Sliding animation for notification windows"
+HOMEPAGE="https://github.com/zzag/kwin-effects-sliding-notifications"
 
 if [[ ${PV} == 9999 ]]; then
 	inherit git-r3
@@ -17,18 +17,18 @@ else
 	KEYWORDS="~amd64"
 fi
 
-LICENSE="GPL-2"
+LICENSE="GPL-3 MIT"
 SLOT="0"
 
 DEPEND="
 	dev-qt/qtcore:5=
-	dev-qt/qtdbus:5=
 	dev-qt/qtgui:5=
 	kde-plasma/kwin:5=
 	kde-frameworks/kconfig:5=
 	kde-frameworks/kconfigwidgets:5=
 	kde-frameworks/kcoreaddons:5=
 	kde-frameworks/kwindowsystem:5=
+	x11-libs/libxcb
 	media-libs/libepoxy
 "
 RDEPEND="${DEPEND}"
