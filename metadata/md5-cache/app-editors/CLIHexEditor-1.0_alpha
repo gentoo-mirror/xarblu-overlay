@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install
+DESCRIPTION=A rudimentary CLI hex editor programmed in C, probably not memory safe
+EAPI=8
+HOMEPAGE=https://github.com/1UPNuke/CLIHexEditor
+INHERIT=toolchain-funcs
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/1UPNuke/CLIHexEditor/archive/alpha-1.0.tar.gz -> CLIHexEditor-1.0_alpha.tar.gz
+_eclasses_=toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157
+_md5_=bc97a47f50b2e0cadd9202f9f285a4b8

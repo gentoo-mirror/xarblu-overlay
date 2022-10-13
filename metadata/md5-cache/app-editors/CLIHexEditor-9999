@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=A rudimentary CLI hex editor programmed in C, probably not memory safe
+EAPI=8
+HOMEPAGE=https://github.com/1UPNuke/CLIHexEditor
+INHERIT=toolchain-funcs git-r3
+LICENSE=MIT
+PROPERTIES=live
+SLOT=0
+_eclasses_=toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=bc97a47f50b2e0cadd9202f9f285a4b8
