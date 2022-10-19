@@ -10,7 +10,7 @@ dev-python/jellyfin-apiclient-python 1.9.2: Python API Client for Jellyfin
 dev-python/pipx 1.1.0: Install and Run Python Applications in Isolated Environments
 dev-python/pystray 0.19.4: Python library for creating system tray icons
 dev-python/python-mpv-jsonipc 1.1.13: Python API to MPV using JSON IPC
-dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user PATH, no elevated privileges required!
+dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user PATH
 games-action/prismlauncher 5.0: A custom, open source Minecraft launcher
 games-misc/lolcat-jaseg 1.2: High-performance implementation of lolcat
 games-util/evdevhook 2021.11.21: libevdev based DSU/cemuhook joystick server
