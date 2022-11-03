@@ -11,7 +11,6 @@ dev-python/pipx 1.1.0: Install and Run Python Applications in Isolated Environme
 dev-python/pystray 0.19.4: Python library for creating system tray icons
 dev-python/python-mpv-jsonipc 1.1.13: Python API to MPV using JSON IPC
 dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user PATH
-games-action/prismlauncher 5.0: A custom, open source Minecraft launcher
 games-misc/lolcat-jaseg 1.2: High-performance implementation of lolcat
 games-util/evdevhook 2021.11.21: libevdev based DSU/cemuhook joystick server
 kde-misc/FancyTasks 1.1.1: Make your plasma task manager widget pretty
@@ -24,5 +23,5 @@ media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0: Preconfigured set of MP
 net-misc/iwd-firewalld-zone 1.0.0-r1: Automatically move wireless interface into firewalld zone based on setting in relevant iwd network file
 sys-kernel/kernelscripts 1.2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/xanmod-sources 6.0.5 6.0.6: Full XanMod sources including the Gentoo patchset
-www-apps/jellyfin 10.8.5 10.8.6: Jellyfin puts you in control of managing and streaming your media
+www-apps/jellyfin 10.8.7: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.48: Symlinks and syncs browser profile dirs to RAM
