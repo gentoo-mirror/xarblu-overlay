@@ -3,7 +3,7 @@ app-emulation/waydroid 1.3.3: A container-based approach to boot a full Android 
 app-misc/e621_downloader 1.7.1: E621 and E926 downloader made in the Rust programming language.
 app-misc/macchina 6.1.5-r2 6.1.6: A system information fetcher, with an (unhealthy) emphasis on performance.
 app-misc/pueue 2.1.0: A CLI tool for managing long running shell commands.
-app-misc/topgrade 10.2.1-r1: Upgrade all the things
+app-misc/topgrade 10.2.1-r1 10.2.2: Upgrade all the things
 app-misc/uwufetch 1.7 2.0 9999: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
 dev-python/jellyfin-apiclient-python 1.9.2: Python API Client for Jellyfin
