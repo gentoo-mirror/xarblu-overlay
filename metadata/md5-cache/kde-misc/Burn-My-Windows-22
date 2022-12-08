@@ -1,0 +1,14 @@
+BDEPEND=dev-lang/perl
+DEFINED_PHASES=compile install
+DEPEND=kde-plasma/kwin:5=
+DESCRIPTION=Disintegrate your windows with style
+EAPI=8
+HOMEPAGE=https://github.com/Schneegans/Burn-My-Windows
+IUSE=doom energize-a energize-b fire glide hexagon incinerate pixelate pixel-wheel pixel-wipe tv wisps
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=kde-plasma/kwin:5=
+REQUIRED_USE=|| ( doom energize-a energize-b fire glide hexagon incinerate pixelate pixel-wheel pixel-wipe tv wisps )
+SLOT=0
+SRC_URI=https://github.com/Schneegans/Burn-My-Windows/archive/v22.tar.gz -> Burn-My-Windows-22.tar.gz
+_md5_=0e11e1669e01fd54d2473a90bc66dd6d

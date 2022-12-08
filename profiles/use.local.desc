@@ -4,6 +4,18 @@
 
 app-emulation/waydroid:clipboard - Enable clipboard sharing via dev-python/pyclip
 app-misc/pueue:fish-completion - Enable fish completion support.
+kde-misc/Burn-My-Windows:doom - Melt your windows
+kde-misc/Burn-My-Windows:energize-a - Beam your windows away
+kde-misc/Burn-My-Windows:energize-b - Using different transporter technology results in an alternative visual effect
+kde-misc/Burn-My-Windows:fire - The classic effect inspired by Compiz
+kde-misc/Burn-My-Windows:glide - Fade the window to transparency with subtle 3D effects
+kde-misc/Burn-My-Windows:hexagon - With glowing lines and hexagon-shaped tiles, this effect looks very sci-fi
+kde-misc/Burn-My-Windows:incinerate - A less snappy but definitely more fancy take on the fire effect
+kde-misc/Burn-My-Windows:pixel-wheel - Pixelate the window and hide the pixels in a wheel-like fashion
+kde-misc/Burn-My-Windows:pixel-wipe - Pixelate the window and hide the pixels radially, starting from the pointer position
+kde-misc/Burn-My-Windows:pixelate - Pixelate the window and randomly hide the pixels
+kde-misc/Burn-My-Windows:tv - Make windows close like turning off a TV
+kde-misc/Burn-My-Windows:wisps - Let your windows be carried away to the realm of dreams by these little fairies
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
 media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
 media-video/jellyfin-mpv-shim:display-mirroring - Enable display-mirroring
