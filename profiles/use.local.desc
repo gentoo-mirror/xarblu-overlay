@@ -3,6 +3,7 @@
 # * generated automatically using pmaint *
 
 app-emulation/waydroid:clipboard - Enable clipboard sharing via dev-python/pyclip
+app-emulation/waydroid:nftables - Use net-firewall/nftables instead of net-firewall/iptables
 app-misc/pueue:fish-completion - Enable fish completion support.
 kde-misc/Burn-My-Windows:doom - Melt your windows
 kde-misc/Burn-My-Windows:energize-a - Beam your windows away
