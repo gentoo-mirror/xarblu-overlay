@@ -23,7 +23,7 @@ media-video/jellyfin-mpv-shim 2.2.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 net-misc/iwd-firewalld-zone 1.0.0-r1: Automatically move wireless interface into firewalld zone based on setting in relevant iwd network file
 sys-devel/llvm 15.0.6: Low Level Virtual Machine
-sys-devel/polly 15.0.6: Polyhedral optimizations for LLVM
+sys-devel/polly 15.0.6-r1: Polyhedral optimizations for LLVM
 sys-kernel/kernelscripts 1.2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/xanmod-sources 6.0.10 6.0.11 6.0.12 6.1.0: Full XanMod sources including the Gentoo patchset
 www-apps/jellyfin 10.8.7 10.8.8: Jellyfin puts you in control of managing and streaming your media
