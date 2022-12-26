@@ -14,6 +14,7 @@ kde-misc/Burn-My-Windows:incinerate - A less snappy but definitely more fancy ta
 kde-misc/Burn-My-Windows:pixel-wheel - Pixelate the window and hide the pixels in a wheel-like fashion
 kde-misc/Burn-My-Windows:pixel-wipe - Pixelate the window and hide the pixels radially, starting from the pointer position
 kde-misc/Burn-My-Windows:pixelate - Pixelate the window and randomly hide the pixels
+kde-misc/Burn-My-Windows:portal - Transfer your windows to other locations in space and time
 kde-misc/Burn-My-Windows:tv - Make windows close like turning off a TV
 kde-misc/Burn-My-Windows:wisps - Let your windows be carried away to the realm of dreams by these little fairies
 media-gfx/imagemagick:corefonts - Use media-fonts/corefonts which is required by some commands
