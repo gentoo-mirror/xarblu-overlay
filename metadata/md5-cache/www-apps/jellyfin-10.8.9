@@ -1,0 +1,16 @@
+BDEPEND=acct-user/jellyfin intro-skipper? ( net-libs/nodejs[npm] ) virtual/pkgconfig
+DEFINED_PHASES=compile install postinst prepare unpack
+DEPEND=acct-user/jellyfin
+DESCRIPTION=Jellyfin puts you in control of managing and streaming your media
+EAPI=8
+HOMEPAGE=https://jellyfin.readthedocs.io/en/latest/
+INHERIT=systemd
+IUSE=intro-skipper jellyscrub
+KEYWORDS=~amd64 ~arm64
+LICENSE=GPL-2
+RDEPEND=acct-user/jellyfin media-video/ffmpeg[vpx,x264] intro-skipper? ( media-video/ffmpeg[chromaprint] ) dev-libs/icu
+RESTRICT=mirror network-sandbox test
+SLOT=0
+SRC_URI=arm64? ( https://repo.jellyfin.org/releases/server/linux/versions/stable/combined/10.8.9/jellyfin_10.8.9_arm64.tar.gz https://repo.jellyfin.org/archive/linux/stable/10.8.9/combined/jellyfin_10.8.9_arm64.tar.gz ) amd64? ( https://repo.jellyfin.org/releases/server/linux/versions/stable/combined/10.8.9/jellyfin_10.8.9_amd64.tar.gz https://repo.jellyfin.org/archive/linux/stable/10.8.9/combined/jellyfin_10.8.9_amd64.tar.gz ) intro-skipper? ( https://github.com/jellyfin/jellyfin-web/archive/v10.8.9.tar.gz -> jellyfin-web-10.8.9.tar.gz )
+_eclasses_=toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	systemd	5f4bb0758df2e483babf68cd517078ca
+_md5_=a66b03cb135417addf05e6982e85747d
