@@ -1,7 +1,7 @@
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
 app-misc/macchina 6.1.6 6.1.8: A system information fetcher, with an (unhealthy) emphasis on performance.
-app-misc/pueue 3.0.1: Manage your shell commands
+app-misc/pueue 3.0.1 3.1.0: Manage your shell commands
 app-misc/topgrade 10.2.4 10.3.1: Upgrade all the things
 app-misc/uwufetch 1.7 2.0 9999: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
