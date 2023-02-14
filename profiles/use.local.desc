@@ -30,6 +30,7 @@ media-gfx/imagemagick:opencl - Enable OpenCL support
 media-gfx/imagemagick:pango - Enable Pango support using x11-libs/pango
 media-gfx/imagemagick:q32 - Set quantum depth value to 32
 media-gfx/imagemagick:q8 - Set quantum depth value to 8
+media-gfx/viu:sixel - Experimental Sixel support
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
 media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
 media-video/jellyfin-mpv-shim:display-mirroring - Enable display-mirroring
