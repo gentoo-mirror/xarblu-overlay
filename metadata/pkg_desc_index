@@ -28,6 +28,7 @@ net-misc/linux-discord-rich-presence 3.1.3-r1: Customizable Discord Rich Presenc
 net-vpn/mullvad-vpn-bin 2022.5: The Mullvad VPN client app for desktop
 sci-electronics/digital 0.30: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628: RISC-V Assembler and Runtime Simulator
+sys-auth/pam-fprint-grosshack 0.3.0: PAM module enabling simultaneous fprintd and password authentication
 sys-devel/llvm 15.0.7-r1 16.0.0_rc1 16.0.0_rc2: Low Level Virtual Machine
 sys-devel/polly 15.0.7-r1 16.0.0_rc1 16.0.0_rc2: Polyhedral optimizations for LLVM
 sys-kernel/kernelscripts 1.2 2.0: Basic scripts to manage kernels on Gentoo Linux
