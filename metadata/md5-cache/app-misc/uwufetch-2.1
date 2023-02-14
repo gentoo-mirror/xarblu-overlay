@@ -1,14 +1,14 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install prepare unpack
+DEFINED_PHASES=compile install prepare
 DEPEND=gpu? ( sys-apps/lshw ) images? ( media-gfx/viu ) X? ( x11-apps/xwininfo )
 DESCRIPTION=A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 EAPI=8
 HOMEPAGE=https://github.com/TheDarkBug/uwufetch
-INHERIT=toolchain-funcs git-r3
+INHERIT=toolchain-funcs
 IUSE=gpu images X
+KEYWORDS=~amd64 ~x86 ~arm64 ~arm
 LICENSE=GPL-3
-PROPERTIES=live
 RDEPEND=gpu? ( sys-apps/lshw ) images? ( media-gfx/viu ) X? ( x11-apps/xwininfo )
 SLOT=0
-_eclasses_=toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	git-r3	2347f8fe2d392b2a091191f94be37e6f
+SRC_URI=https://github.com/TheDarkBug/uwufetch/archive/2.1.tar.gz -> uwufetch-2.1.tar.gz
+_eclasses_=toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157
 _md5_=63c3d133761a085d9a1a14b437ecbdf6
