@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 RDEPEND=eclean-kernel? ( app-admin/eclean-kernel ) || ( sys-kernel/installkernel-gentoo sys-kernel/installkernel-systemd-boot )
 SLOT=0
-SRC_URI=https://github.com/xarblu/kernelscripts/archive/v1.2.tar.gz
-_md5_=7ea5efdedc5afa317bd5abe386c933d8
+SRC_URI=https://github.com/xarblu/kernelscripts/archive/v3.0.tar.gz
+_md5_=6ba61e7c9d5b5bba8d77d63f7bd089e0
