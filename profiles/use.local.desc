@@ -45,5 +45,6 @@ sys-devel/llvm:xar - Support dumping LLVM bitcode sections in Mach-O files (uses
 sys-devel/llvm:z3 - Enable support for sci-mathematics/z3 constraint solver
 sys-kernel/kernelscripts:eclean-kernel - Install app-admin/eclean-kernel to help remove sparse files
 sys-kernel/xanmod-sources:extra-patches - (EXPERIMENTAL) Apply extra patches
+sys-kernel/xanmod-sources:project-c - (EXPERIMENTAL) Apply project-c scheduler patches
 www-apps/jellyfin:intro-skipper - Build custom jellyfin-web for the intro-skipper plugin.
 www-apps/jellyfin:jellyscrub - Setup index.html for the jellyscrub plugin.
