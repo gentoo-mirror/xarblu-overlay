@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=The banana cursor
+EAPI=8
+HOMEPAGE=https://github.com/ful1e5/banana-cursor
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/ful1e5/banana-cursor/releases/download/v1.0.0/Banana.tar.gz -> banana-cursor-1.0.0.tar.gz
+_md5_=04bc3efcb39de584c6b9dc98bd56abc1
