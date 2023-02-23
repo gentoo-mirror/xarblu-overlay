@@ -33,6 +33,6 @@ sys-auth/pam-fprint-grosshack 0.3.0: PAM module enabling simultaneous fprintd an
 sys-devel/llvm 15.0.7-r1 16.0.0_rc1 16.0.0_rc2: Low Level Virtual Machine
 sys-devel/polly 15.0.7-r1 16.0.0_rc1 16.0.0_rc2: Polyhedral optimizations for LLVM
 sys-kernel/kernelscripts 2.0 4.0: Basic scripts to manage kernels on Gentoo Linux
-sys-kernel/xanmod-sources 6.1.12: Full XanMod sources including the Gentoo patchset
+sys-kernel/xanmod-sources 6.1.12 6.1.13: Full XanMod sources including the Gentoo patchset
 www-apps/jellyfin 10.8.7 10.8.8 10.8.9: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.48: Symlinks and syncs browser profile dirs to RAM
