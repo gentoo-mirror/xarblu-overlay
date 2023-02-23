@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=virtual/jre
 SLOT=0
 SRC_URI=https://github.com/hneemann/Digital/releases/download/v0.30/Digital.zip -> digital-0.30.zip
-_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
 _md5_=24ccefc39161f6efe3f5e4ada5b19a7e
