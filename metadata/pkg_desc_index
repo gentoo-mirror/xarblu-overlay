@@ -1,5 +1,5 @@
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
-app-misc/clipboard 0.3.2: Cut, copy, and paste anything, anywhere, all from the terminal
+app-misc/clipboard 0.3.2 0.4.0: Cut, copy, and paste anything, anywhere, all from the terminal
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
 app-misc/macchina 6.1.6 6.1.8: A system information fetcher, with an (unhealthy) emphasis on performance.
 app-misc/pueue 3.1.1: Manage your shell commands
