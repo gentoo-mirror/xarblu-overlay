@@ -22,7 +22,7 @@ media-fonts/twemoji 14.0.2: A color emoji font with a flat visual style, designe
 media-gfx/imagemagick 7.1.0.62: A collection of tools and libraries for many image formats
 media-gfx/viu 1.4.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 1.4.1: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
-media-sound/qpwgraph 0.3.9 0.4.0 9999: A PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.3.9 0.4.1 9999: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 net-misc/iwd-firewalld-zone 1.0.0-r1: Automatically move wireless interface into firewalld zone based on setting in relevant iwd network file
