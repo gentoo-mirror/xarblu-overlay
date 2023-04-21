@@ -20,7 +20,7 @@ kde-misc/FancyTasks 1.1.1: Make your plasma task manager widget pretty
 kde-misc/kwin-effects-sliding-notifications 1.4.0 1.5.0 9999: Sliding animation for notification windows
 kde-misc/kwin-effects-yet-another-magic-lamp 5.26.0 5.27.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/twemoji 14.0.2: A color emoji font with a flat visual style, designed and used by Twitter
-media-gfx/imagemagick 7.1.1.3 7.1.1.6: A collection of tools and libraries for many image formats
+media-gfx/imagemagick 7.1.1.3 7.1.1.6 7.1.1.7: A collection of tools and libraries for many image formats
 media-gfx/viu 1.4.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 1.4.1: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-sound/qpwgraph 0.3.9 0.4.1 0.4.2 9999: A PipeWire Graph Qt GUI Interface
@@ -35,7 +35,7 @@ sys-auth/pam-fprint-grosshack 0.3.0: PAM module enabling simultaneous fprintd an
 sys-devel/llvm 15.0.7-r1 16.0.1 16.0.2: Low Level Virtual Machine
 sys-devel/polly 15.0.7-r1 16.0.1 16.0.2: Polyhedral optimizations for LLVM
 sys-kernel/kernelscripts 4.0 5.0: Basic scripts to manage kernels on Gentoo Linux
-sys-kernel/xanmod-sources 6.1.22 6.1.23 6.1.24 6.2.8 6.2.9 6.2.10 6.2.11: Full XanMod sources including the Gentoo patchset
+sys-kernel/xanmod-sources 6.1.22 6.1.23 6.1.24 6.1.25 6.2.8 6.2.9 6.2.10 6.2.11 6.2.12: Full XanMod sources including the Gentoo patchset
 www-apps/jellyfin 10.8.7 10.8.8 10.8.9: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.48: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor
