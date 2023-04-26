@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Basic scripts to manage kernels on Gentoo Linux
+EAPI=8
+HOMEPAGE=https://github.com/xarblu/kernelscripts
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=|| ( sys-kernel/installkernel-gentoo sys-kernel/installkernel-systemd-boot )
+SLOT=0
+SRC_URI=https://github.com/xarblu/kernelscripts/archive/v6.0.tar.gz
+_md5_=dbf9b4188698c78ca87164793d050008
