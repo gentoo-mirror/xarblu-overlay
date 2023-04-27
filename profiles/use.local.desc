@@ -21,16 +21,6 @@ kde-misc/Burn-My-Windows:tv - Make windows close like turning off a TV
 kde-misc/Burn-My-Windows:tv-glitch - Make your windows close like a very glitchy old-school TV
 kde-misc/Burn-My-Windows:wisps - Let your windows be carried away to the realm of dreams by these little fairies
 media-fonts/twemoji:icons - Install Twemoji icon theme
-media-gfx/imagemagick:corefonts - Use media-fonts/corefonts which is required by some commands
-media-gfx/imagemagick:fpx - Enable media-libs/libfpx support
-media-gfx/imagemagick:hdri - Enable High Dynamic Range Images formats
-media-gfx/imagemagick:heif - Enable support for ISO/IEC 23008-12:2017 HEIF/HEIC image format using media-libs/libheif
-media-gfx/imagemagick:jpegxl - Enable support for JPEG XL image format
-media-gfx/imagemagick:lqr - Enable experimental liquid rescale support using media-libs/liblqr
-media-gfx/imagemagick:opencl - Enable OpenCL support
-media-gfx/imagemagick:pango - Enable Pango support using x11-libs/pango
-media-gfx/imagemagick:q32 - Set quantum depth value to 32
-media-gfx/imagemagick:q8 - Set quantum depth value to 8
 media-gfx/viu:sixel - Experimental Sixel support
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
 media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
