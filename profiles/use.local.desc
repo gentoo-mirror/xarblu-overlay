@@ -20,6 +20,8 @@ kde-misc/Burn-My-Windows:portal - Transfer your windows to other locations in sp
 kde-misc/Burn-My-Windows:tv - Make windows close like turning off a TV
 kde-misc/Burn-My-Windows:tv-glitch - Make your windows close like a very glitchy old-school TV
 kde-misc/Burn-My-Windows:wisps - Let your windows be carried away to the realm of dreams by these little fairies
+media-fonts/ibm-plex:otf - Install OTF fonts
+media-fonts/ibm-plex:ttf - Install TTF fonts
 media-fonts/twemoji:icons - Install Twemoji icon theme
 media-gfx/viu:sixel - Experimental Sixel support
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
