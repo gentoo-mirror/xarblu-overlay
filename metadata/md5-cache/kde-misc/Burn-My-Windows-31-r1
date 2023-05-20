@@ -11,4 +11,4 @@ RDEPEND=kde-plasma/kwin:5= kde-frameworks/kwidgetsaddons:5=[designer]
 REQUIRED_USE=|| ( doom energize-a energize-b fire glide glitch hexagon incinerate pixelate pixel-wheel pixel-wipe portal tv tv-glitch wisps )
 SLOT=0
 SRC_URI=https://github.com/Schneegans/Burn-My-Windows/archive/v31.tar.gz -> Burn-My-Windows-31.tar.gz
-_md5_=e8a2cf7c0d36f52a30125bdb5e1a13e1
+_md5_=59b43f2754be2b7d1ddc006c751ad946
