@@ -11,5 +11,5 @@ LICENSE=GPL-2
 RDEPEND=sys-auth/fprintd sys-libs/pam systemd? ( sys-apps/systemd:= ) !systemd? ( sys-auth/elogind:= )
 SLOT=0
 SRC_URI=https://gitlab.com/mishakmak/pam-fprint-grosshack/-/archive/v0.3.0/pam-fprint-grosshack-v0.3.0.tar.bz2
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	76050953ad5b70d7e09a6ca55558db92	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1	python-utils-r1	d676fb844e9408f4290d20bc7312f8bb	meson	915ec7c25e08d7886558215e6809ca1e	flag-o-matic	16483e58fadb0d47b4528f0aa7e171f6	pam	4efe951aa8ce2c16288d7c915196fe29	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	systemd	5f4bb0758df2e483babf68cd517078ca
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	76050953ad5b70d7e09a6ca55558db92	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1	python-utils-r1	ba15b8b81f30ca448294d759a9f7902c	meson	915ec7c25e08d7886558215e6809ca1e	flag-o-matic	16483e58fadb0d47b4528f0aa7e171f6	pam	4efe951aa8ce2c16288d7c915196fe29	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	systemd	5f4bb0758df2e483babf68cd517078ca
 _md5_=efbab9e4547406b48981864b60d6ffa9
