@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=kde-plasma/kwin:5= kde-frameworks/kwidgetsaddons:5=[designer]
 REQUIRED_USE=|| ( doom energize-a energize-b fire glide glitch hexagon incinerate pixelate pixel-wheel pixel-wipe portal tv tv-glitch wisps )
 SLOT=0
-SRC_URI=https://github.com/Schneegans/Burn-My-Windows/archive/v32.tar.gz -> Burn-My-Windows-32.tar.gz
+SRC_URI=https://github.com/Schneegans/Burn-My-Windows/archive/v34.tar.gz -> Burn-My-Windows-34.tar.gz
 _md5_=59b43f2754be2b7d1ddc006c751ad946
