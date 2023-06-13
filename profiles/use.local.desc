@@ -31,6 +31,7 @@ media-video/jellyfin-mpv-shim:display-mirroring - Enable display-mirroring
 media-video/jellyfin-mpv-shim:shaders - Install the default shader pack
 media-video/jellyfin-mpv-shim:systray - Enable systray via dev-python/pystray
 sys-devel/llvm:binutils-plugin - Build the binutils plugin
+sys-devel/llvm:debuginfod - Install llvm-debuginfod (requires net-misc/curl and dev-cpp/cpp-httplib)
 sys-devel/llvm:doc - Build and install the HTML documentation and regenerate the man pages
 sys-devel/llvm:exegesis - Enable performance counter support for llvm-exegesis tool that can be used to measure host machine instruction characteristics
 sys-devel/llvm:ncurses - Support querying terminal properties using ncurses' terminfo

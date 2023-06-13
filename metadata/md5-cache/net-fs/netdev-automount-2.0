@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DEPEND=>=dev-lang/python-3.11 networkmanager? ( net-misc/networkmanager )
+DESCRIPTION=Automatically (un)mount network filesystems
+EAPI=8
+HOMEPAGE=https://github.com/xarblu/netdev-automount
+IUSE=+networkmanager
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=>=dev-lang/python-3.11 networkmanager? ( net-misc/networkmanager )
+SLOT=0
+SRC_URI=https://github.com/xarblu/netdev-automount/archive/v2.0.tar.gz -> netdev-automount-2.0.tar.gz
+_md5_=e2ac06dfd5f50c25d133490ee520dfbc
