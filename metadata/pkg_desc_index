@@ -4,7 +4,7 @@ app-misc/clipboard 0.7.1 0.8.0: Cut, copy, and paste anything, anywhere, all fro
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
 app-misc/macchina 6.1.6 6.1.8: A system information fetcher, with an (unhealthy) emphasis on performance.
 app-misc/pueue 3.1.2 3.2.0: Manage your shell commands
-app-misc/topgrade 10.3.3 11.0.2: Upgrade all the things
+app-misc/topgrade 11.0.2 12.0.0: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
 dev-java/jdtls-bin 1.22.0.202304131553 1.23.0.202304271346 1.24.0.202306011728: Java language server
