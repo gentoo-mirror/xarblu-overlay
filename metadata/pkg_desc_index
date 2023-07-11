@@ -1,6 +1,6 @@
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
-app-misc/clipboard 0.7.1 0.8.0: Cut, copy, and paste anything, anywhere, all from the terminal
+app-misc/clipboard 0.7.1 0.8.0 0.8.1: Cut, copy, and paste anything, anywhere, all from the terminal
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
 app-misc/macchina 6.1.6 6.1.8: A system information fetcher, with an (unhealthy) emphasis on performance.
 app-misc/pueue 3.1.2 3.2.0: Manage your shell commands
@@ -25,7 +25,7 @@ media-fonts/ibm-plex 6.2.0 6.3.0: The package of IBM's typeface
 media-fonts/twemoji 14.0.2: A color emoji font with a flat visual style, designed and used by Twitter
 media-gfx/viu 1.4.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 1.6.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
-media-sound/qpwgraph 0.4.1 0.4.2 0.4.4 9999: A PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.4.4 0.4.5 9999: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
