@@ -6,6 +6,11 @@ app-misc/clipboard:lto - Enable link time optimization (LTO)
 app-misc/uwufetch:X - Get screen resolution via x11-apps/xwininfo
 app-misc/uwufetch:gpu - Better accuracy on GPU info via sys-apps/lshw
 app-misc/uwufetch:images - Support images via media-gfx/viu
+games-util/mangohud:doc - Include the example config, man pages, appstream files etc
+games-util/mangohud:mangoapp - Build MangoApp for use with gui-wm/gamescope
+games-util/mangohud:mangohudctl - Build MangoHudCTL
+games-util/mangohud:system-spdlog - Use system install of dev-libs/spdlog
+games-util/mangohud:xnvctrl - Use XNVctrl as fall back for older Nvidia devices
 kde-misc/Burn-My-Windows:doom - Melt your windows
 kde-misc/Burn-My-Windows:energize-a - Beam your windows away
 kde-misc/Burn-My-Windows:energize-b - Using different transporter technology results in an alternative visual effect
