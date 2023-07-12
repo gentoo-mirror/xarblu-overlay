@@ -16,7 +16,7 @@ dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user 
 dev-util/shadowman 3-r2: Unified compiler shadow link directory updater
 games-misc/lolcat-jaseg 1.3 1.4: High-performance implementation of lolcat
 games-util/evdevhook 2021.11.21: libevdev based DSU/cemuhook joystick server
-games-util/mangohud 0.6.9.1: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
+games-util/mangohud 0.6.9.1-r1: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
 games-util/protonup 0.1.5: Install and Update Proton-GE
 kde-misc/Burn-My-Windows 34: Disintegrate your windows with style
 kde-misc/FancyTasks 1.1.1: Make your plasma task manager widget pretty
