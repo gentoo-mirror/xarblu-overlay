@@ -19,6 +19,7 @@ games-util/protonup 0.1.5: Install and Update Proton-GE
 kde-misc/Burn-My-Windows 34: Disintegrate your windows with style
 kde-misc/FancyTasks 1.1.1: Make your plasma task manager widget pretty
 kde-misc/geometry-change 1.0: A KWin animation for windows moved or resized by programs or scripts
+kde-misc/kde-rounded-corners 0.4.1: A KWin animation for windows moved or resized by programs or scripts
 kde-misc/kwin-effects-sliding-notifications 1.4.0 1.5.0 9999: Sliding animation for notification windows
 kde-misc/kwin-effects-yet-another-magic-lamp 5.26.0 5.27.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/ibm-plex 6.2.0 6.3.0: The package of IBM's typeface
