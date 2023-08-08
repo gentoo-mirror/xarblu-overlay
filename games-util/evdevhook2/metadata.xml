@@ -5,11 +5,7 @@
 		<email>xarblu@protonmail.com</email>
 		<name>Xarblu</name>
 	</maintainer>
-	<use>
-		<flag name="alsa">Support routing ALSA raw midi devices</flag>
-		<flag name="trayicon">Enable systray icon (window close will iconify instead of exit)</flag>
-	</use>
 	<upstream>
-		<remote-id type="freedesktop-gitlab">rncbc/qpwgraph</remote-id>
+		<remote-id type="github">v1993/evdevhook2</remote-id>
 	</upstream>
 </pkgmetadata>
