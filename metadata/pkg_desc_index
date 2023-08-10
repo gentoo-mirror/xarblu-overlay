@@ -30,6 +30,8 @@ media-libs/svt-av1 1.6.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and
 media-sound/qpwgraph 0.5.2 9999: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
+mpv-plugin/thumbfast 2023.07.08: High-performance on-the-fly thumbnailer for mpv
+mpv-plugin/uosc 4.6.0 4.7.0: Feature-rich minimalist proximity-based UI for MPV player
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-misc/iwd-firewalld-zone 1.0.0-r1: Automatically move wireless interface into firewalld zone based on setting in relevant iwd network file
 net-misc/linux-discord-rich-presence 3.1.3-r1: Customizable Discord Rich Presence client for Linux

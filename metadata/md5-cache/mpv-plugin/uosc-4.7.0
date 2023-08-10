@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst prepare
+DEPEND=media-video/mpv:=
+DESCRIPTION=Feature-rich minimalist proximity-based UI for MPV player
+EAPI=8
+HOMEPAGE=https://github.com/tomasklaen/uosc
+IUSE=+autoload
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=media-video/mpv:=
+SLOT=0
+SRC_URI=https://github.com/tomasklaen/uosc/archive/4.7.0.tar.gz -> uosc-4.7.0.tar.gz
+_md5_=aadff19c81c5541c7428f75f04cb715e

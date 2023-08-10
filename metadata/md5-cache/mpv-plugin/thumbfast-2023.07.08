@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst
+DEPEND=media-video/mpv:= net-misc/socat
+DESCRIPTION=High-performance on-the-fly thumbnailer for mpv
+EAPI=8
+HOMEPAGE=https://github.com/po5/thumbfast
+IUSE=+autoload
+KEYWORDS=~amd64 ~x86
+LICENSE=MPL-2.0
+RDEPEND=media-video/mpv:= net-misc/socat
+SLOT=0
+SRC_URI=https://github.com/po5/thumbfast/archive/4241c7daa444d3859b51b65a39d30e922adb87e9.tar.gz -> thumbfast-2023.07.08.tar.gz
+_md5_=e77fcae6f4f732121e341358032c92bd

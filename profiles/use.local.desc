@@ -35,6 +35,8 @@ media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify i
 media-video/jellyfin-mpv-shim:display-mirroring - Enable display-mirroring
 media-video/jellyfin-mpv-shim:shaders - Install the default shader pack
 media-video/jellyfin-mpv-shim:systray - Enable systray via dev-python/pystray
+mpv-plugin/thumbfast:autoload - Install files to /etc/mpv for autoloading.
+mpv-plugin/uosc:autoload - Symlink files to /etc/mpv for autoloading.
 net-fs/netdev-automount:networkmanager - Create symlinks for NetworkManager-dispatcher
 sys-devel/llvm:binutils-plugin - Build the binutils plugin
 sys-devel/llvm:debuginfod - Install llvm-debuginfod (requires net-misc/curl and dev-cpp/cpp-httplib)
