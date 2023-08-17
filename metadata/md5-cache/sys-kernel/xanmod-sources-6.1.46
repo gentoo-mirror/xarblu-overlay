@@ -8,7 +8,7 @@ KEYWORDS=~amd64
 LICENSE=GPL-2 CDDL project-c? ( GPL-3 )
 RDEPEND=!build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-devel/make >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
 RESTRICT=binchecks strip
-SLOT=6.4.10
-SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.4.tar.xz https://sourceforge.net/projects/xanmod/files/releases/main/6.4.10-xanmod1/patch-6.4.10-xanmod1.xz -> 1000-xanmod-6.4.10-1.patch.xz https://dev.gentoo.org/~alicef/dist/genpatches/genpatches-6.4-12.base.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.4-12.base.tar.xz https://dev.gentoo.org/~alicef/dist/genpatches/genpatches-6.4-12.extras.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.4-12.extras.tar.xz
+SLOT=6.1.46
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.1.tar.xz https://sourceforge.net/projects/xanmod/files/releases/lts/6.1.46-xanmod1/patch-6.1.46-xanmod1.xz -> 1000-xanmod-6.1.46-1.patch.xz project-c? ( https://gitlab.com/alfredchen/projectc/-/raw/master/6.1/prjc_v6.1-r4.patch -> 5500-prjc_v6.1-r4.patch ) https://dev.gentoo.org/~alicef/dist/genpatches/genpatches-6.1-52.base.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.1-52.base.tar.xz https://dev.gentoo.org/~alicef/dist/genpatches/genpatches-6.1-52.extras.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.1-52.extras.tar.xz
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	0c8a0b0d318eb5d5180d114bd3f6592b	multilib	c19072c3cd7ac5cb21de013f7e9832e0	kernel-2	552a82e0738a2db29ddba6e36373405b
-_md5_=b6cb9bf377757333b98dd1868160c033
+_md5_=d3e22912f4166781a47cc4a33dc0f4a6
