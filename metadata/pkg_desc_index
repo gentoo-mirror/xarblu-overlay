@@ -7,7 +7,7 @@ app-misc/pueue 3.1.2 3.2.0: Manage your shell commands
 app-misc/topgrade 12.0.2: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
-dev-java/jdtls-bin 1.24.0.202306011728 1.25.0.202306291518: Java language server
+dev-java/jdtls-bin 1.25.0.202306291518 1.26.0.202307271613: Java language server
 dev-python/jellyfin-apiclient-python 1.9.2: Python API Client for Jellyfin
 dev-python/pystray 0.19.4: Python library for creating system tray icons
 dev-python/python-mpv-jsonipc 1.1.14 1.2.0: Python API to MPV using JSON IPC
@@ -18,7 +18,7 @@ games-util/evdevhook2 0_p20230805: Cemuhook UDP server for devices with modern L
 games-util/mangohud 0.6.9.1-r1: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
 games-util/protonup 0.1.5: Install and Update Proton-GE
 kde-misc/Burn-My-Windows 34 36: Disintegrate your windows with style
-kde-misc/FancyTasks 1.1.1: Make your plasma task manager widget pretty
+kde-misc/FancyTasks 1.1.1 1.1.2: Make your plasma task manager widget pretty
 kde-misc/geometry-change 1.0: A KWin animation for windows moved or resized by programs or scripts
 kde-misc/kde-rounded-corners 0.4.1 0.4.2: Rounds the corners of your windows in KDE Plasma 5
 kde-misc/kwin-effects-sliding-notifications 1.4.0 1.5.0 9999: Sliding animation for notification windows
