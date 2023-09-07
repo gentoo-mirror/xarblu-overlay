@@ -40,8 +40,8 @@ net-vpn/mullvad-vpn-bin 2023.4 2023.5_beta1: The Mullvad VPN client app for desk
 sci-electronics/digital 0.30: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-auth/pam-fprint-grosshack 0.3.0: PAM module enabling simultaneous fprintd and password authentication
-sys-devel/llvm 15.0.7-r3 16.0.6 17.0.0_rc3: Low Level Virtual Machine
-sys-devel/polly 15.0.7-r1 16.0.6 17.0.0_rc3: Polyhedral optimizations for LLVM
+sys-devel/llvm 15.0.7-r3 16.0.6 17.0.0_rc3 17.0.0_rc4: Low Level Virtual Machine
+sys-devel/polly 15.0.7-r1 16.0.6 17.0.0_rc3 17.0.0_rc4: Polyhedral optimizations for LLVM
 sys-kernel/kernelscripts 5.0 6.0: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/xanmod-sources 6.1.45 6.1.46 6.1.47 6.1.49 6.4.10 6.4.11 6.4.12 6.5.0: Full XanMod sources including the Gentoo patchset
 www-apps/jellyfin 10.8.10: Jellyfin puts you in control of managing and streaming your media
