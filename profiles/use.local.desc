@@ -10,6 +10,7 @@ games-util/evdevhook2:battery - Battery status reporting via sys-power/upower
 games-util/mangohud:doc - Include the example config, man pages, appstream files etc
 games-util/mangohud:mangoapp - Build MangoApp for use with gui-wm/gamescope
 games-util/mangohud:mangohudctl - Build MangoHudCTL
+games-util/mangohud:mangoplot - Install MangoPlot and its dependencies
 games-util/mangohud:system-spdlog - Use system install of dev-libs/spdlog
 games-util/mangohud:xnvctrl - Use XNVctrl as fall back for older Nvidia devices
 kde-misc/Burn-My-Windows:doom - Melt your windows
