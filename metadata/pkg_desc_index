@@ -25,7 +25,7 @@ kde-misc/kwin-effects-sliding-notifications 1.4.0 1.5.0 9999: Sliding animation 
 kde-misc/kwin-effects-yet-another-magic-lamp 5.26.0 5.27.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/ibm-plex 6.2.0 6.3.0: The package of IBM's typeface
 media-fonts/twemoji 14.0.2: A color emoji font with a flat visual style, designed and used by Twitter
-media-gfx/viu 1.4.0: Terminal image viewer with native support for iTerm and Kitty
+media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 1.6.0 1.7.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-sound/qpwgraph 0.5.2 0.5.3 0.6.0 9999: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
