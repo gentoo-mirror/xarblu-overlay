@@ -9,6 +9,7 @@ app-misc/pueue 3.3.2: Manage your shell commands
 app-misc/topgrade 12.0.2 13.0.0: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
+app-text/xournalpp 1.2.2: Handwriting notetaking software with PDF annotation support
 dev-java/jdtls-bin 1.25.0.202306291518 1.26.0.202307271613: Java language server
 dev-python/jellyfin-apiclient-python 1.9.2: Python API Client for Jellyfin
 dev-python/pystray 0.19.5: Python library for creating system tray icons
