@@ -49,6 +49,5 @@ sys-devel/llvm:ncurses - Support querying terminal properties using ncurses' ter
 sys-devel/llvm:polly - Add support for the LLVM Framework for High-Level Loop and Data-Locality Optimizations
 sys-devel/llvm:xar - Support dumping LLVM bitcode sections in Mach-O files (uses app-arch/xar)
 sys-devel/llvm:z3 - Enable support for sci-mathematics/z3 constraint solver
-sys-kernel/xanmod-sources:project-c - (EXPERIMENTAL) Apply project-c scheduler patches
 www-apps/jellyfin:intro-skipper - Build custom jellyfin-web for the intro-skipper plugin.
 www-apps/jellyfin:jellyscrub - Setup index.html for the jellyscrub plugin.
