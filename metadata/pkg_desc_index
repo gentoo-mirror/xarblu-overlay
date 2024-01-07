@@ -3,7 +3,6 @@ acct-user/adguardhome 0: System user for AdGuardHome
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
-app-misc/pueue 3.3.2: Manage your shell commands
 app-misc/topgrade 12.0.2 13.0.0: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
@@ -36,10 +35,10 @@ net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 net-vpn/mullvad-vpn-bin 2023.6: The Mullvad VPN client app for desktop
 sci-electronics/digital 0.30: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
-sys-devel/llvm 15.0.7-r3 16.0.6 17.0.5 17.0.6: Low Level Virtual Machine
-sys-devel/polly 15.0.7-r1 16.0.6 17.0.5 17.0.6: Polyhedral optimizations for LLVM
+sys-devel/llvm 15.0.7-r3 16.0.6 17.0.6: Low Level Virtual Machine
+sys-devel/polly 15.0.7-r1 16.0.6 17.0.6: Polyhedral optimizations for LLVM
 sys-kernel/kernelscripts 6.0-r1: Basic scripts to manage kernels on Gentoo Linux
-sys-kernel/xanmod-sources 6.1.57 6.1.66 6.1.68 6.1.69 6.1.70 6.6.4 6.6.5 6.6.7 6.6.8 6.6.9: Full XanMod sources including the Gentoo patchset
+sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.6.7 6.6.8 6.6.9 6.6.10: Full XanMod sources including the Gentoo patchset
 www-apps/jellyfin 10.8.13: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-terms/wezterm 20231203.000000_pre1: A GPU-accelerated cross-platform terminal emulator and multiplexer
