@@ -30,6 +30,7 @@ media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
 mpv-plugin/uosc 5.0.0 5.1.1: Feature-rich minimalist proximity-based UI for MPV player
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
+net-im/vesktop-bin 0.4.4: A standalone Electron app that loads Discord & Vencord
 net-misc/AdGuardHome-bin 0.107.42 0.107.43: Network-wide ads & trackers blocking DNS server
 net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 net-vpn/mullvad-vpn-bin 2023.6: The Mullvad VPN client app for desktop
