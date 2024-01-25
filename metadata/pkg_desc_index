@@ -5,7 +5,7 @@ acct-user/crafty 0: System user for Crafty Controller
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
-app-misc/topgrade 12.0.2 13.0.0: Upgrade all the things
+app-misc/topgrade 13.0.0 14.0.1: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
 app-text/xournalpp 1.2.2: Handwriting notetaking software with PDF annotation support
@@ -28,7 +28,6 @@ media-fonts/monaspace 1.000: An innovative superfamily of fonts for code
 media-fonts/twemoji 14.0.2: A color emoji font with a flat visual style, designed and used by Twitter
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 1.7.0 1.8.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
-media-sound/qpwgraph 0.6.0 0.6.1 9999: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
