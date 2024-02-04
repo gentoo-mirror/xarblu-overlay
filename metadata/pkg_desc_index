@@ -47,7 +47,7 @@ sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6
 virtual/dist-kernel 6.7.1 6.7.2 6.7.3: Virtual to depend on any Distribution Kernel
 www-apps/jellyfin 10.8.13: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
-x11-terms/wezterm 20240128.202157: A GPU-accelerated cross-platform terminal emulator and multiplexer
-x11-terms/wezterm-shell-integration 20240128.202157: Shell integration scripts for WezTerm
-x11-terms/wezterm-terminfo 20240128.202157: Terminfo for WezTerm
+x11-terms/wezterm 20240128.202157 20240203.110809: A GPU-accelerated cross-platform terminal emulator and multiplexer
+x11-terms/wezterm-shell-integration 20240128.202157 20240203.110809: Shell integration scripts for WezTerm
+x11-terms/wezterm-terminfo 20240128.202157 20240203.110809: Terminfo for WezTerm
 x11-themes/banana-cursor 1.0.0: The banana cursor
