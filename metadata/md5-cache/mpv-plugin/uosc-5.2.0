@@ -1,3 +1,4 @@
+BDEPEND=app-arch/unzip
 DEFINED_PHASES=install postinst
 DEPEND=media-video/mpv:=
 DESCRIPTION=Feature-rich minimalist proximity-based UI for MPV player
@@ -8,5 +9,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=media-video/mpv:=
 SLOT=0
-SRC_URI=https://github.com/tomasklaen/uosc/archive/5.0.0.tar.gz -> uosc-5.0.0.tar.gz
-_md5_=4e40ce920d179b8388cedbbde7e52c1d
+SRC_URI=https://github.com/tomasklaen/uosc/releases/download/5.2.0/uosc.zip -> uosc-5.2.0.zip
+_md5_=0a502ef13c342c60832a38813564fd3e
