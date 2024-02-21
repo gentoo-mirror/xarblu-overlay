@@ -56,3 +56,7 @@ sys-kernel/cachyos-kernel:rt-bore - BORE Scheduler + RT Patches
 sys-kernel/cachyos-kernel:sched-ext - SCHED-EXT Scheduler
 www-apps/jellyfin:intro-skipper - Build custom jellyfin-web for the intro-skipper plugin.
 www-apps/jellyfin:jellyscrub - Setup index.html for the jellyscrub plugin.
+x11-themes/catppuccin-kde:frappe - Frappe flavour of Catppuccin
+x11-themes/catppuccin-kde:latte - Latte flavour of Catppuccin
+x11-themes/catppuccin-kde:macchiato - Macchiato flavour of Catppuccin
+x11-themes/catppuccin-kde:mocha - Mocha flavour of Catppuccin

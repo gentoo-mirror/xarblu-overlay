@@ -52,3 +52,4 @@ x11-terms/wezterm 20240128.202157 20240203.110809: A GPU-accelerated cross-platf
 x11-terms/wezterm-shell-integration 20240128.202157 20240203.110809: Shell integration scripts for WezTerm
 x11-terms/wezterm-terminfo 20240128.202157 20240203.110809: Terminfo for WezTerm
 x11-themes/banana-cursor 1.0.0: The banana cursor
+x11-themes/catppuccin-kde 0.2.4: Soothing pastel theme for KDE
