@@ -8,7 +8,7 @@ app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust progra
 app-misc/topgrade 13.0.0 14.0.1: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
-app-text/xournalpp 1.2.2: Handwriting notetaking software with PDF annotation support
+app-text/xournalpp 1.2.2 1.2.3: Handwriting notetaking software with PDF annotation support
 dev-python/jellyfin-apiclient-python 1.9.2: Python API Client for Jellyfin
 dev-python/libgravatar 1.0.4: A library that provides a Python 3 interface for the Gravatar API
 dev-python/pystray 0.19.5: Python library for creating system tray icons
