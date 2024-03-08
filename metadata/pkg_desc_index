@@ -2,6 +2,8 @@ acct-group/adguardhome 0: System group: adguardhome
 acct-group/crafty 0: System group: crafty
 acct-user/adguardhome 0: System user for AdGuardHome
 acct-user/crafty 0: System user for Crafty Controller
+app-admin/ananicy-cpp 1.1.1-r4: Ananicy rewritten in C++ for much lower CPU and memory usage
+app-admin/ananicy-rules-cachyos 2024.02.29: ananicy-cpp-rules from CachyOS
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
