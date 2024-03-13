@@ -32,7 +32,7 @@ media-fonts/ibm-plex 6.3.0 6.4.0: The package of IBM's typeface
 media-fonts/monaspace 1.000: An innovative superfamily of fonts for code
 media-fonts/twemoji 14.0.2: A color emoji font with a flat visual style, designed and used by Twitter
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
-media-libs/svt-av1 1.7.0 1.8.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
+media-libs/svt-av1 1.7.0 1.8.0 2.0.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
