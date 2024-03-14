@@ -1,0 +1,15 @@
+BDEPEND=acct-user/jellyfin virtual/pkgconfig
+DEFINED_PHASES=install postinst prepare pretend
+DEPEND=acct-user/jellyfin media-libs/fontconfig sys-libs/zlib
+DESCRIPTION=Jellyfin puts you in control of managing and streaming your media
+EAPI=8
+HOMEPAGE=https://jellyfin.org/
+INHERIT=pax-utils systemd tmpfiles
+IUSE=jellyscrub
+LICENSE=GPL-2
+RDEPEND=acct-user/jellyfin media-libs/fontconfig sys-libs/zlib dev-libs/icu media-video/ffmpeg[vpx,x264] sys-libs/glibc virtual/tmpfiles
+RESTRICT=mirror test
+SLOT=0
+SRC_URI=arm64? ( https://repo.jellyfin.org/files/server/linux/unstable/2024031105/arm64/jellyfin_2024031105-arm64.tar.gz ) amd64? ( https://repo.jellyfin.org/files/server/linux/unstable/2024031105/amd64/jellyfin_2024031105-amd64.tar.gz )
+_eclasses_=pax-utils	91d47e5d20627c717aa878b9167c62a8	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942	tmpfiles	216aa76c3a6fcb5d893c23a0de86048f
+_md5_=44976b438a81e4df5f270004eb6e841f
