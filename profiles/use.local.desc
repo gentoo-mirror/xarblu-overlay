@@ -85,4 +85,5 @@ x11-themes/catppuccin-kde:catppuccin_flavours_frappe - Frappe flavour of Catppuc
 x11-themes/catppuccin-kde:catppuccin_flavours_latte - Latte flavour of Catppuccin
 x11-themes/catppuccin-kde:catppuccin_flavours_macchiato - Macchiato flavour of Catppuccin
 x11-themes/catppuccin-kde:catppuccin_flavours_mocha - Mocha flavour of Catppuccin
-x11-themes/catppuccin-kde:splashscreen - Install Catppuccin splashscreens
+x11-themes/catppuccin-kde:catppuccin_styles_classic - Classic window decoration style of Catppuccin
+x11-themes/catppuccin-kde:catppuccin_styles_modern - Modern window decoration style of Catppuccin
