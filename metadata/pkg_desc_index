@@ -3,7 +3,7 @@ acct-group/crafty 0: System group: crafty
 acct-user/adguardhome 0: System user for AdGuardHome
 acct-user/crafty 0: System user for Crafty Controller
 app-admin/ananicy-cpp 1.1.1-r4: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ananicy-rules-cachyos 2024.02.29 2024.03.10: ananicy-cpp-rules from CachyOS
+app-admin/ananicy-rules-cachyos 2024.02.29 2024.03.10 2024.03.26: ananicy-cpp-rules from CachyOS
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
@@ -31,7 +31,7 @@ kde-misc/kwin-effects-sliding-notifications 1.5.0 9999: Sliding animation for no
 kde-misc/kwin-effects-yet-another-magic-lamp 5.27.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/ibm-plex 6.3.0 6.4.0: The package of IBM's typeface
 media-fonts/monaspace 1.000: An innovative superfamily of fonts for code
-media-fonts/twemoji 15.0.3: A color emoji font with a flat visual style
+media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 1.7.0 1.8.0 2.0.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
@@ -46,8 +46,8 @@ net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 net-vpn/mullvad-vpn-bin 2024.1: The Mullvad VPN client app for desktop
 sci-electronics/digital 0.30: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
-sys-devel/llvm 15.0.7-r3 16.0.6 17.0.6 18.1.0 18.1.2: Low Level Virtual Machine
-sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.0 18.1.2: Polyhedral optimizations for LLVM
+sys-devel/llvm 15.0.7-r3 16.0.6 17.0.6 18.1.2: Low Level Virtual Machine
+sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.2: Polyhedral optimizations for LLVM
 sys-kernel/cachyos-kernel 6.7.5 6.7.6 6.7.7 6.7.8 6.7.9 6.8.0 6.8.1 6.8.2: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
