@@ -56,6 +56,7 @@ sys-devel/llvm:xar - Support dumping LLVM bitcode sections in Mach-O files (uses
 sys-devel/llvm:z3 - Enable support for sci-mathematics/z3 constraint solver
 sys-kernel/cachyos-kernel:bore - BORE Scheduler
 sys-kernel/cachyos-kernel:cachyos - CachyOS (BORE + SCHED-EXT) Scheduler
+sys-kernel/cachyos-kernel:echo - ECHO Scheduler
 sys-kernel/cachyos-kernel:eevdf - EEVDF (Mainline Linux) Scheduler
 sys-kernel/cachyos-kernel:generic-uki - Build and install a generic initramfs and Unified Kernel Image, this is intended for building binpkgs with a pre-generated UKI included (EXPERIMENTAL).
 sys-kernel/cachyos-kernel:hardened - BORE Scheduler + Hardening Patches
