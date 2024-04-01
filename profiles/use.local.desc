@@ -64,6 +64,7 @@ sys-kernel/cachyos-kernel:initramfs - Build initramfs along with the kernel.
 sys-kernel/cachyos-kernel:rt - RT Patches
 sys-kernel/cachyos-kernel:rt-bore - BORE Scheduler + RT Patches
 sys-kernel/cachyos-kernel:sched-ext - SCHED-EXT Scheduler
+sys-kernel/cachyos-settings:zram - Enable ZRAM configs via sys-apps/zram-generator
 www-apps/jellyfin-bin:jellyscrub - Setup index.html for the jellyscrub plugin.
 x11-themes/catppuccin-cursors:frappe - Frappe flavour of Catppuccin
 x11-themes/catppuccin-cursors:latte - Latte flavour of Catppuccin
