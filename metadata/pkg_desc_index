@@ -3,7 +3,7 @@ acct-group/crafty 0: System group: crafty
 acct-user/adguardhome 0: System user for AdGuardHome
 acct-user/crafty 0: System user for Crafty Controller
 app-admin/ananicy-cpp 1.1.1-r4: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ananicy-rules-cachyos 2024.02.29 2024.03.10 2024.03.26: ananicy-cpp-rules from CachyOS
+app-admin/ananicy-rules-cachyos 2024.03.10 2024.03.26 2024.04.06: ananicy-cpp-rules from CachyOS
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
@@ -21,7 +21,7 @@ dev-util/sccache 0.7.7: ccache/distcc like tool with support for rust and cloud 
 games-misc/lolcat-jaseg 1.3 1.4: High-performance implementation of lolcat
 games-server/crafty-controller 4.2.2: Minecraft Server Wrapper / Controller / Launcher
 games-util/arrpc 3.3.0: Open Discord RPC server for atypical setups
-games-util/evdevhook2 1.0.0 1.0.1: Cemuhook UDP server for devices with modern Linux drivers
+games-util/evdevhook2 1.0.2: Cemuhook UDP server for devices with modern Linux drivers
 games-util/mangohud 0.7.1-r3: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
 kde-misc/Burn-My-Windows 40 42: Disintegrate your windows with style
 kde-misc/FancyTasks 1.1.3 1.1.4 1.1.5: Make your plasma task manager widget pretty
