@@ -102,6 +102,7 @@ media-fonts/nerd-fonts:terminus - Install Terminus font
 media-fonts/nerd-fonts:tinos - Install Tinos font
 media-fonts/nerd-fonts:ubuntu - Install Ubuntu font
 media-fonts/nerd-fonts:ubuntumono - Install UbuntuMono font
+media-fonts/nerd-fonts:ubuntusans - Install UbuntuSans font
 media-fonts/nerd-fonts:victormono - Install VictorMono font
 media-fonts/nerd-fonts:zedmono - Install ZedMono font
 media-fonts/twemoji:icons - Install Twemoji icon theme
