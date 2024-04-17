@@ -56,7 +56,7 @@ sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/scx 0.1.7: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
 virtual/dist-kernel 6.7.9 6.8.2 6.8.3 6.8.4 6.8.5 6.8.6: Virtual to depend on any Distribution Kernel
-www-apps/jellyfin-bin 10.8.13-r2 10.9.0_pre2024031805-r1 10.9.0_pre2024040105: Jellyfin puts you in control of managing and streaming your media
+www-apps/jellyfin-bin 10.8.13-r2 10.9.0_pre2024040105 10.9.0_pre2024041505: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-terms/wezterm 20240203.110809-r1: A GPU-accelerated cross-platform terminal emulator and multiplexer
 x11-terms/wezterm-shell-integration 20240128.202157 20240203.110809: Shell integration scripts for WezTerm
