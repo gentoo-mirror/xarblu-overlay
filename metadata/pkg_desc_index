@@ -27,7 +27,7 @@ kde-misc/Burn-My-Windows 40 42: Disintegrate your windows with style
 kde-misc/FancyTasks 1.1.3 1.1.4 1.1.5: Make your plasma task manager widget pretty
 kde-misc/geometry-change 1.1 1.2 1.3: A KWin animation for windows moved or resized by programs or scripts
 kde-misc/kde-rounded-corners 0.4.2 0.6.1: Rounds the corners of your windows in KDE Plasma 6
-kde-misc/kwin-effects-forceblur 1.1.2: KWin Blur effect for KDE Plasma 6 to blur any window
+kde-misc/kwin-effects-forceblur 1.1.2 1.2.0: KWin Blur effect for KDE Plasma 6 to blur any window
 kde-misc/kwin-effects-sliding-notifications 1.5.0 9999: Sliding animation for notification windows
 kde-misc/kwin-effects-yet-another-magic-lamp 5.27.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/ibm-plex 6.3.0 6.4.0: The package of IBM's typeface
@@ -40,7 +40,7 @@ media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
 mpv-plugin/uosc 5.1.1 5.2.0: Feature-rich minimalist proximity-based UI for MPV player
-net-dns/dnsproxy-bin 0.67.0 0.68.0 0.69.2: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+net-dns/dnsproxy-bin 0.67.0 0.68.0 0.69.2 0.70.0: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-im/vesktop-bin 1.5.1: A standalone Electron app that loads Discord & Vencord
 net-misc/AdGuardHome-bin 0.107.45 0.107.46 0.107.47 0.107.48: Network-wide ads & trackers blocking DNS server
