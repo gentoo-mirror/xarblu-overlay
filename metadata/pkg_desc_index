@@ -12,6 +12,7 @@ app-misc/topgrade 13.0.0 14.0.1: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2: fastest text uwuifier in the west
 app-text/xournalpp 1.2.2 1.2.3: Handwriting notetaking software with PDF annotation support
+dev-java/openjdk 22.0.1_p8: Open source implementation of the Java programming language
 dev-lisp/roswell 23.10.14.114: A lisp installer and launcher for major environment
 dev-python/jellyfin-apiclient-python 1.9.2: Python API Client for Jellyfin
 dev-python/libgravatar 1.0.4: A library that provides a Python 3 interface for the Gravatar API
@@ -56,6 +57,8 @@ sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/scx 0.1.7: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
 virtual/dist-kernel 6.7.9 6.8.2 6.8.3 6.8.4 6.8.5 6.8.6 6.8.7: Virtual to depend on any Distribution Kernel
+virtual/jdk 22: Virtual for Java Development Kit (JDK)
+virtual/jre 22: Virtual for Java Runtime Environment (JRE)
 www-apps/jellyfin-bin 10.8.13-r2 10.9.0_pre2024040105 10.9.0_pre2024041505: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-terms/wezterm 20240203.110809-r1: A GPU-accelerated cross-platform terminal emulator and multiplexer

@@ -9,6 +9,10 @@ app-misc/uwufetch:X - Get screen resolution via x11-apps/xwininfo
 app-misc/uwufetch:gpu - Better accuracy on GPU info via sys-apps/lshw
 app-misc/uwufetch:images - Support images via media-gfx/viu
 app-text/xournalpp:tex - Pull in deps for tex
+dev-java/openjdk:headless-awt - Don't install the X backend for AWT, needed by some GUIs
+dev-java/openjdk:jbootstrap - Build OpenJDK twice, the second time using the result of the first
+dev-java/openjdk:source - Install JVM sources
+dev-java/openjdk:systemtap - Enable SystemTAP/DTrace tracing
 dev-util/sccache:azure - Enable Azure Blob Storage support
 dev-util/sccache:dist-client - Enables distributed support in the sccache client
 dev-util/sccache:dist-server - Enables the sccache-dist binary
@@ -134,6 +138,7 @@ sys-kernel/cachyos-kernel:rt - RT Patches
 sys-kernel/cachyos-kernel:rt-bore - BORE Scheduler + RT Patches
 sys-kernel/cachyos-kernel:sched-ext - SCHED-EXT Scheduler
 sys-kernel/cachyos-settings:zram - Enable ZRAM configs via sys-apps/zram-generator
+virtual/jdk:headless-awt - Don't install the X backend for AWT, needed by some GUIs
 www-apps/jellyfin-bin:jellyscrub - Setup index.html for the jellyscrub plugin.
 x11-themes/catppuccin-cursors:frappe - Frappe flavour of Catppuccin
 x11-themes/catppuccin-cursors:latte - Latte flavour of Catppuccin
