@@ -111,6 +111,8 @@ media-fonts/nerd-fonts:victormono - Install VictorMono font
 media-fonts/nerd-fonts:zedmono - Install ZedMono font
 media-fonts/twemoji:icons - Install Twemoji icon theme
 media-gfx/viu:sixel - Experimental Sixel support
+media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
+media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
 media-video/jellyfin-mpv-shim:display-mirroring - Enable display-mirroring
 media-video/jellyfin-mpv-shim:shaders - Install the default shader pack
 media-video/jellyfin-mpv-shim:systray - Enable systray via dev-python/pystray

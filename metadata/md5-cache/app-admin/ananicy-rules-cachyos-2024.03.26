@@ -1,9 +1,0 @@
-DEFINED_PHASES=install
-DESCRIPTION=ananicy-cpp-rules from CachyOS
-EAPI=8
-HOMEPAGE=https://github.com/CachyOS/ananicy-rules
-KEYWORDS=~amd64
-LICENSE=GPL-3
-SLOT=0
-SRC_URI=https://github.com/CachyOS/ananicy-rules/archive/17e2fec57d872b5d1612b1ec26b0a98ba2ece31c.tar.gz -> ananicy-rules-cachyos-2024.03.26.tar.gz
-_md5_=8fbaf1e0fc49aba85fa2073db5bfee64
