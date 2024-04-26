@@ -113,6 +113,14 @@ media-fonts/twemoji:icons - Install Twemoji icon theme
 media-gfx/viu:sixel - Experimental Sixel support
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
 media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
+media-video/jellyfin-ffmpeg:amf - Enables support for AMD's Advanced Media Framework (AMF)
+media-video/jellyfin-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
+media-video/jellyfin-ffmpeg:cuda - Enables CUDA-based acceleration. Mostly used for specific filters.
+media-video/jellyfin-ffmpeg:mipsdspr1 - Enables MIPS DSP ASE R1 optimizations.
+media-video/jellyfin-ffmpeg:mipsdspr2 - Enables MIPS DSP ASE R2 optimizations.
+media-video/jellyfin-ffmpeg:mipsfpu - Enables floating point MIPS optimizations.
+media-video/jellyfin-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
+media-video/jellyfin-ffmpeg:qsv - Enable Intel Quick Sync Video via media-libs/libvpl.
 media-video/jellyfin-mpv-shim:display-mirroring - Enable display-mirroring
 media-video/jellyfin-mpv-shim:shaders - Install the default shader pack
 media-video/jellyfin-mpv-shim:systray - Enable systray via dev-python/pystray
@@ -142,6 +150,7 @@ sys-kernel/cachyos-kernel:sched-ext - SCHED-EXT Scheduler
 sys-kernel/cachyos-settings:zram - Enable ZRAM configs via sys-apps/zram-generator
 virtual/jdk:headless-awt - Don't install the X backend for AWT, needed by some GUIs
 www-apps/jellyfin-bin:jellyscrub - Setup index.html for the jellyscrub plugin.
+www-apps/jellyfin-bin:vendored-ffmpeg - Use patched media-video/jellyfin-ffmpeg.
 x11-themes/catppuccin-cursors:frappe - Frappe flavour of Catppuccin
 x11-themes/catppuccin-cursors:latte - Latte flavour of Catppuccin
 x11-themes/catppuccin-cursors:macchiato - Macchiato flavour of Catppuccin
