@@ -53,13 +53,13 @@ sci-electronics/digital 0.30: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-devel/llvm 15.0.7-r3 16.0.6-r2 17.0.6-r2 18.1.3-r2 18.1.4: Low Level Virtual Machine
 sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.3 18.1.4: Polyhedral optimizations for LLVM
-sys-kernel/cachyos-kernel 6.7.9 6.8.2 6.8.3 6.8.4 6.8.5 6.8.6 6.8.7: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.8.7 6.8.8: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 20240331 20240403: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/scx 0.1.7: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
 sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
-virtual/dist-kernel 6.7.9 6.8.2 6.8.3 6.8.4 6.8.5 6.8.6 6.8.7: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.8.7 6.8.8: Virtual to depend on any Distribution Kernel
 virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
 www-apps/jellyfin-bin 10.8.13-r2 10.9.0_pre2024041505 10.9.0_pre2024042215: Jellyfin puts you in control of managing and streaming your media
