@@ -68,6 +68,7 @@ RDEPEND="${DEPEND}
         dev-libs/icu
         vendored-ffmpeg? ( media-video/jellyfin-ffmpeg )
         !vendored-ffmpeg? ( media-video/ffmpeg[vpx,x264] )
+        sys-devel/gcc
         elibc_musl? ( sys-libs/musl )
         elibc_glibc? ( sys-libs/glibc )
 "
