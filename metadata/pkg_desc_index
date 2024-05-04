@@ -32,7 +32,7 @@ kde-misc/kwin-effects-forceblur 1.1.2 1.2.0: KWin Blur effect for KDE Plasma 6 t
 kde-misc/kwin-effects-sliding-notifications 1.5.0 9999: Sliding animation for notification windows
 kde-misc/kwin-effects-yet-another-magic-lamp 5.27.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/ibm-plex 6.3.0 6.4.0: The package of IBM's typeface
-media-fonts/monaspace 1.000: An innovative superfamily of fonts for code
+media-fonts/monaspace 1.000 1.100: An innovative superfamily of fonts for code
 media-fonts/nerd-fonts 3.2.1: Nerd Fonts is a project that patches fonts with a high number of glyphs
 media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
