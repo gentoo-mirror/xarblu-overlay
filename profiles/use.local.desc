@@ -149,6 +149,7 @@ sys-kernel/cachyos-kernel:rt - RT Patches
 sys-kernel/cachyos-kernel:rt-bore - BORE Scheduler + RT Patches
 sys-kernel/cachyos-kernel:sched-ext - SCHED-EXT Scheduler
 sys-kernel/cachyos-settings:zram - Enable ZRAM configs via sys-apps/zram-generator
+sys-kernel/scx:openrc - Enable sys-apps/openrc support.
 virtual/jdk:headless-awt - Don't install the X backend for AWT, needed by some GUIs
 www-apps/jellyfin-bin:jellyscrub - Setup index.html for the jellyscrub plugin.
 www-apps/jellyfin-bin:vendored-ffmpeg - Use patched media-video/jellyfin-ffmpeg.
