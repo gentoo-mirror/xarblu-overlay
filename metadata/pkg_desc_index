@@ -62,7 +62,7 @@ sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
 virtual/dist-kernel 6.8.7 6.8.8 6.8.9: Virtual to depend on any Distribution Kernel
 virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
-www-apps/jellyfin-bin 10.8.13-r2 10.9.0_pre2024042215 10.9.0_pre2024050605: Jellyfin puts you in control of managing and streaming your media
+www-apps/jellyfin-bin 10.8.13-r2 10.9.0: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-terms/wezterm 20240203.110809-r1: A GPU-accelerated cross-platform terminal emulator and multiplexer
 x11-terms/wezterm-shell-integration 20240128.202157 20240203.110809: Shell integration scripts for WezTerm
