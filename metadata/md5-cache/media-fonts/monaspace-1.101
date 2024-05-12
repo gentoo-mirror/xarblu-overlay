@@ -1,0 +1,14 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup
+DESCRIPTION=An innovative superfamily of fonts for code
+EAPI=8
+HOMEPAGE=https://monaspace.githubnext.com/
+INHERIT=font
+IUSE=+otf variable X
+KEYWORDS=~amd64 ~x86
+LICENSE=OFL-1.1
+REQUIRED_USE=|| ( otf variable )
+SLOT=0
+SRC_URI=https://github.com/githubnext/monaspace/archive/v1.101.tar.gz -> monaspace-1.101.tar.gz
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=d14b19d31ea25668834b70916145866c
