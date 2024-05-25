@@ -38,7 +38,7 @@ media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 2.0.0 2.1.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-sound/qpwgraph 0.7.0 0.7.1 0.7.2: A PipeWire Graph Qt GUI Interface
-media-video/jellyfin-ffmpeg 6.0.1.6: FFmpeg for Jellyfin
+media-video/jellyfin-ffmpeg 6.0.1.6 6.0.1.7: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.4.2 2.5.0 2.6.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
@@ -46,20 +46,20 @@ mpv-plugin/uosc 5.1.1 5.2.0: Feature-rich minimalist proximity-based UI for MPV 
 net-dns/dnsproxy-bin 0.71.0 0.71.1: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-im/vesktop-bin 1.5.1 1.5.2: A standalone Electron app that loads Discord & Vencord
-net-misc/AdGuardHome-bin 0.107.45 0.107.46 0.107.47 0.107.48: Network-wide ads & trackers blocking DNS server
+net-misc/AdGuardHome-bin 0.107.48 0.107.50: Network-wide ads & trackers blocking DNS server
 net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
-net-vpn/mullvad-vpn-bin 2024.2: The Mullvad VPN client app for desktop
+net-vpn/mullvad-vpn-bin 2024.2 2024.3: The Mullvad VPN client app for desktop
 sci-electronics/digital 0.30: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-devel/llvm 15.0.7-r3 16.0.6-r2 17.0.6-r2 18.1.5 18.1.6: Low Level Virtual Machine
 sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.5 18.1.6: Polyhedral optimizations for LLVM
-sys-kernel/cachyos-kernel 6.8.7 6.8.8 6.8.9 6.9.0 6.9.1: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.8.7 6.8.8 6.8.9 6.9.0 6.9.1 6.9.2: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 20240403 20240509: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/scx 0.1.7 0.1.9: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
 sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
-virtual/dist-kernel 6.8.7 6.8.8 6.8.9 6.9.0 6.9.1: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.8.7 6.8.8 6.8.9 6.9.0 6.9.1 6.9.2: Virtual to depend on any Distribution Kernel
 virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
 www-apps/jellyfin-bin 10.8.13-r2 10.9.0 10.9.1 10.9.2: Jellyfin puts you in control of managing and streaming your media
