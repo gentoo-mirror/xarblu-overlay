@@ -17,8 +17,11 @@ dev-util/sccache:azure - Enable Azure Blob Storage support
 dev-util/sccache:dist-client - Enables distributed support in the sccache client
 dev-util/sccache:dist-server - Enables the sccache-dist binary
 dev-util/sccache:gcs - Enable Google Cloud Storage support
+dev-util/sccache:gha - Enable GitHub Actions cache support
+dev-util/sccache:oss - Enable Object Storage Service support
 dev-util/sccache:redis - Enable Redis support
 dev-util/sccache:s3 - Enable Amazon S3 support
+dev-util/sccache:webdav - Enable WebDAV support
 games-util/evdevhook2:battery - Battery status reporting via sys-power/upower
 games-util/mangohud:mangoapp - Build MangoApp for use with gui-wm/gamescope
 games-util/mangohud:mangohudctl - Build MangoHudCTL
