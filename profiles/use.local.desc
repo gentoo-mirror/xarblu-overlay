@@ -125,9 +125,8 @@ media-video/jellyfin-ffmpeg:mipsdspr2 - Enables MIPS DSP ASE R2 optimizations.
 media-video/jellyfin-ffmpeg:mipsfpu - Enables floating point MIPS optimizations.
 media-video/jellyfin-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
 media-video/jellyfin-ffmpeg:qsv - Enable Intel Quick Sync Video via media-libs/libvpl.
-media-video/jellyfin-mpv-shim:display-mirroring - Enable display-mirroring
 media-video/jellyfin-mpv-shim:shaders - Install the default shader pack
-media-video/jellyfin-mpv-shim:systray - Enable systray via dev-python/pystray
+media-video/jellyfin-mpv-shim:systray - Enable systray support
 mpv-plugin/thumbfast:autoload - Install files to /etc/mpv for autoloading.
 mpv-plugin/uosc:autoload - Symlink files to /etc/mpv for autoloading.
 net-fs/netdev-automount:networkmanager - Create symlinks for NetworkManager-dispatcher
