@@ -10,7 +10,6 @@ app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
 app-misc/topgrade 13.0.0 14.0.1: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
-app-misc/uwuify 0.2.2: fastest text uwuifier in the west
 app-text/xournalpp 1.2.2 1.2.3: Handwriting notetaking software with PDF annotation support
 dev-java/openjdk 22.0.1_p8: Open source implementation of the Java programming language
 dev-lisp/roswell 23.10.14.114: A lisp installer and launcher for major environment
