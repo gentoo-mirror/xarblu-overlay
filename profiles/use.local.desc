@@ -5,6 +5,7 @@
 app-admin/ananicy-cpp:bpf - Use eBPF for processing
 app-admin/ananicy-cpp:cachyos-rules - Pull in rules from app-admin/ananicy-rules-cachyos
 app-admin/ananicy-cpp:clang - Use Clang compiler instead of GCC
+app-admin/goldwarden:fido2 - Add FIDO2 support via dev-libs/libfido2
 app-misc/uwufetch:X - Get screen resolution via x11-apps/xwininfo
 app-misc/uwufetch:gpu - Better accuracy on GPU info via sys-apps/lshw
 app-misc/uwufetch:images - Support images via media-gfx/viu
