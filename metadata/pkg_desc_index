@@ -26,7 +26,7 @@ games-server/crafty-controller 4.2.2: Minecraft Server Wrapper / Controller / La
 games-util/arrpc 3.4.0: Open Discord RPC server for atypical setups
 games-util/evdevhook2 1.0.2: Cemuhook UDP server for devices with modern Linux drivers
 games-util/mangohud 0.7.1-r3: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
-kde-misc/Burn-My-Windows 40 42: Disintegrate your windows with style
+kde-misc/Burn-My-Windows 42: Disintegrate your windows with style
 kde-misc/FancyTasks 1.1.3 1.1.4 1.1.5: Make your plasma task manager widget pretty
 kde-misc/geometry-change 1.1 1.2 1.3: A KWin animation for windows moved or resized by programs or scripts
 kde-misc/kde-rounded-corners 0.4.2 0.6.5 0.6.6: Rounds the corners of your windows in KDE Plasma 6
