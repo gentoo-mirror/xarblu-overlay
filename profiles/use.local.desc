@@ -116,6 +116,10 @@ media-fonts/nerd-fonts:victormono - Install VictorMono font
 media-fonts/nerd-fonts:zedmono - Install ZedMono font
 media-fonts/twemoji:icons - Install Twemoji icon theme
 media-gfx/viu:sixel - Experimental Sixel support
+media-libs/x265:10bit - Add support for producing 10bits HEVC.
+media-libs/x265:12bit - Add support for producing 12bits HEVC.
+media-libs/x265:numa - Build with support for NUMA nodes.
+media-libs/x265:pic - Disable optimized assembly code that is not PIC friendly
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
 media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
 media-video/jellyfin-ffmpeg:amf - Enables support for AMD's Advanced Media Framework (AMF)

@@ -39,6 +39,7 @@ media-fonts/nerd-fonts 3.2.1: Nerd Fonts is a project that patches fonts with a 
 media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 2.0.0 2.1.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
+media-libs/x265 3.6: Library for encoding video streams into the H.265/HEVC format
 media-sound/qpwgraph 0.7.0 0.7.1 0.7.2: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-ffmpeg 6.0.1.6 6.0.1.7: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
