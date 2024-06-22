@@ -40,7 +40,7 @@ media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 2.0.0 2.1.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-libs/x265 3.6: Library for encoding video streams into the H.265/HEVC format
-media-sound/qpwgraph 0.7.0 0.7.1 0.7.2: A PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.7.2 0.7.3: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-ffmpeg 6.0.1.6 6.0.1.7: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
@@ -56,13 +56,13 @@ sci-electronics/digital 0.30: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-devel/llvm 15.0.7-r3 16.0.6-r2 17.0.6-r2 18.1.6 18.1.7: Low Level Virtual Machine
 sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.6 18.1.7: Polyhedral optimizations for LLVM
-sys-kernel/cachyos-kernel 6.9.3 6.9.4 6.9.5: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.9.4 6.9.5 6.9.6: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 20240509 20240608: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/scx 0.1.9 0.1.10: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
 sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
-virtual/dist-kernel 6.9.2 6.9.4 6.9.5: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.9.4 6.9.5 6.9.6: Virtual to depend on any Distribution Kernel
 virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
 www-apps/jellyfin-bin 10.9.4 10.9.6: Jellyfin puts you in control of managing and streaming your media
