@@ -38,7 +38,7 @@ media-fonts/monaspace 1.000 1.100 1.101: An innovative superfamily of fonts for 
 media-fonts/nerd-fonts 3.2.1: Nerd Fonts is a project that patches fonts with a high number of glyphs
 media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
-media-libs/svt-av1 2.0.0 2.1.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
+media-libs/svt-av1 2.0.0 2.1.0 2.1.1: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-libs/x265 3.6: Library for encoding video streams into the H.265/HEVC format
 media-sound/qpwgraph 0.7.2 0.7.3: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-ffmpeg 6.0.1.6 6.0.1.7: FFmpeg for Jellyfin
@@ -65,7 +65,7 @@ sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
 virtual/dist-kernel 6.9.4 6.9.5 6.9.6: Virtual to depend on any Distribution Kernel
 virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
-www-apps/jellyfin-bin 10.9.4 10.9.6: Jellyfin puts you in control of managing and streaming your media
+www-apps/jellyfin-bin 10.9.4 10.9.6 10.9.7: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-terms/wezterm 20240203.110809-r1: A GPU-accelerated cross-platform terminal emulator and multiplexer
 x11-terms/wezterm-shell-integration 20240128.202157 20240203.110809: Shell integration scripts for WezTerm
