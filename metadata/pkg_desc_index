@@ -3,7 +3,7 @@ acct-group/crafty 0: System group: crafty
 acct-user/adguardhome 0: System user for AdGuardHome
 acct-user/crafty 0: System user for Crafty Controller
 app-admin/ananicy-cpp 1.1.1-r4: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ananicy-rules-cachyos 2024.05.10 2024.06.08: ananicy-cpp-rules from CachyOS
+app-admin/ananicy-rules-cachyos 2024.05.10 2024.06.08 2024.07.03: ananicy-cpp-rules from CachyOS
 app-admin/goldwarden 0.3.3-r1: A feature-packed Bitwarden compatible desktop client
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
@@ -57,7 +57,7 @@ sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-devel/llvm 15.0.7-r3 16.0.6-r2 17.0.6-r2 18.1.7 18.1.8: Low Level Virtual Machine
 sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.7 18.1.8: Polyhedral optimizations for LLVM
 sys-kernel/cachyos-kernel 6.9.4 6.9.5 6.9.6 6.9.7: Linux kernel built with CachyOS and Gentoo patches
-sys-kernel/cachyos-settings 20240509 20240608: Configuration files and tweaks from CachyOS
+sys-kernel/cachyos-settings 1.0.5: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/scx 0.1.9 0.1.10: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
