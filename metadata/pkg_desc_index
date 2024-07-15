@@ -59,7 +59,7 @@ sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.7 18.1.8: Polyhedral optimizations 
 sys-kernel/cachyos-kernel 6.9.8 6.9.9: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.0.5: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
-sys-kernel/scx 0.1.9 0.1.10: sched_ext schedulers and tools
+sys-kernel/scx 0.1.9 0.1.10 9999: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
 sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
 virtual/dist-kernel 6.9.8 6.9.9: Virtual to depend on any Distribution Kernel
