@@ -1,9 +1,7 @@
-acct-group/adguardhome 0: System group: adguardhome
 acct-group/crafty 0: System group: crafty
-acct-user/adguardhome 0: System user for AdGuardHome
 acct-user/crafty 0: System user for Crafty Controller
 app-admin/ananicy-cpp 1.1.1-r4 1.1.1-r5: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ananicy-rules-cachyos 2024.05.10 2024.06.08 2024.07.03: ananicy-cpp-rules from CachyOS
+app-admin/ananicy-rules-cachyos 2024.07.23: ananicy-cpp-rules from CachyOS
 app-admin/goldwarden 0.3.3-r1: A feature-packed Bitwarden compatible desktop client
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
@@ -13,7 +11,7 @@ app-misc/topgrade 13.0.0 14.0.1 15.0.0: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2-r1: fastest text uwuifier in the west
 app-text/xournalpp 1.2.2 1.2.3: Handwriting notetaking software with PDF annotation support
-dev-java/openjdk 22.0.1_p8: Open source implementation of the Java programming language
+dev-java/openjdk 22.0.1_p8 22.0.2_p9: Open source implementation of the Java programming language
 dev-lisp/roswell 23.10.14.114: A lisp installer and launcher for major environment
 dev-python/jellyfin-apiclient-python 1.9.2-r1: Python API Client for Jellyfin
 dev-python/libgravatar 1.0.4: A library that provides a Python 3 interface for the Gravatar API
@@ -30,7 +28,7 @@ kde-misc/Burn-My-Windows 42: Disintegrate your windows with style
 kde-misc/FancyTasks 1.1.3 1.1.4 1.1.5: Make your plasma task manager widget pretty
 kde-misc/geometry-change 1.1 1.2 1.3: A KWin animation for windows moved or resized by programs or scripts
 kde-misc/kde-rounded-corners 0.6.7: Rounds the corners of your windows in KDE Plasma 6
-kde-misc/kwin-effects-forceblur 1.2.1 1.3.0: KWin Blur effect for KDE Plasma 6 to blur any window
+kde-misc/kwin-effects-forceblur 1.3.0 1.3.1: KWin Blur effect for KDE Plasma 6 to blur any window
 kde-misc/kwin-effects-sliding-notifications 1.5.0 9999: Sliding animation for notification windows
 kde-misc/kwin-effects-yet-another-magic-lamp 5.27.0 9999: Just Yet Another Magic Lamp effect for KWin
 media-fonts/ibm-plex 6.3.0 6.4.0: The package of IBM's typeface
@@ -40,16 +38,15 @@ media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 2.0.0 2.1.0 2.1.1: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-libs/x265 3.6: Library for encoding video streams into the H.265/HEVC format
-media-sound/qpwgraph 0.7.2 0.7.3 0.7.4: A PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.7.4 0.7.5: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-ffmpeg 6.0.1.6 6.0.1.7: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
 mpv-plugin/uosc 5.1.1 5.2.0: Feature-rich minimalist proximity-based UI for MPV player
-net-dns/dnsproxy-bin 0.71.2: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+net-dns/dnsproxy 0.72.1: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-im/vesktop-bin 1.5.1 1.5.2: A standalone Electron app that loads Discord & Vencord
-net-misc/AdGuardHome-bin 0.107.50 0.107.51: Network-wide ads & trackers blocking DNS server
 net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 net-vpn/mullvad-vpn-bin 2024.2 2024.3: The Mullvad VPN client app for desktop
 sci-electronics/digital 0.30: A digital logic designer and circuit simulator
@@ -65,7 +62,7 @@ sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
 virtual/dist-kernel 6.9.8 6.9.9 6.10.0: Virtual to depend on any Distribution Kernel
 virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
-www-apps/jellyfin-bin 10.9.4 10.9.6 10.9.7: Jellyfin puts you in control of managing and streaming your media
+www-apps/jellyfin-bin 10.9.7 10.9.8: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-terms/wezterm 20240203.110809-r1: A GPU-accelerated cross-platform terminal emulator and multiplexer
 x11-terms/wezterm-shell-integration 20240128.202157 20240203.110809: Shell integration scripts for WezTerm
