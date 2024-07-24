@@ -135,14 +135,6 @@ media-video/jellyfin-mpv-shim:systray - Enable systray support
 mpv-plugin/thumbfast:autoload - Install files to /etc/mpv for autoloading.
 mpv-plugin/uosc:autoload - Symlink files to /etc/mpv for autoloading.
 net-fs/netdev-automount:networkmanager - Create symlinks for NetworkManager-dispatcher
-sys-devel/llvm:binutils-plugin - Build the binutils plugin
-sys-devel/llvm:debuginfod - Install llvm-debuginfod (requires net-misc/curl and dev-cpp/cpp-httplib)
-sys-devel/llvm:doc - Build and install the HTML documentation and regenerate the man pages
-sys-devel/llvm:exegesis - Enable performance counter support for llvm-exegesis tool that can be used to measure host machine instruction characteristics
-sys-devel/llvm:ncurses - Support querying terminal properties using ncurses' terminfo
-sys-devel/llvm:polly - Add support for the LLVM Framework for High-Level Loop and Data-Locality Optimizations
-sys-devel/llvm:xar - Support dumping LLVM bitcode sections in Mach-O files (uses app-arch/xar)
-sys-devel/llvm:z3 - Enable support for sci-mathematics/z3 constraint solver
 sys-kernel/cachyos-kernel:bmq - BMQ Scheduler
 sys-kernel/cachyos-kernel:bore - BORE Scheduler
 sys-kernel/cachyos-kernel:cachyos - CachyOS (BORE + SCHED-EXT) Scheduler
