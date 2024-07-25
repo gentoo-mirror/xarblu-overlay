@@ -39,7 +39,7 @@ media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm a
 media-libs/svt-av1 2.0.0 2.1.0 2.1.1: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-libs/x265 3.6: Library for encoding video streams into the H.265/HEVC format
 media-sound/qpwgraph 0.7.4 0.7.5: A PipeWire Graph Qt GUI Interface
-media-video/jellyfin-ffmpeg 6.0.1.6 6.0.1.7: FFmpeg for Jellyfin
+media-video/jellyfin-ffmpeg 6.0.1.6 6.0.1.7 6.0.1.8: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
