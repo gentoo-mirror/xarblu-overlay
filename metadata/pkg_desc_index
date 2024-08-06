@@ -64,7 +64,7 @@ virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
 www-apps/jellyfin-bin 10.9.7 10.9.8 10.9.9: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
-x11-terms/wezterm 20240203.110809-r1: A GPU-accelerated cross-platform terminal emulator and multiplexer
+x11-terms/wezterm 20240203.110809-r1 20240730.082727_pre0: A GPU-accelerated cross-platform terminal emulator and multiplexer
 x11-terms/wezterm-shell-integration 20240128.202157 20240203.110809: Shell integration scripts for WezTerm
 x11-terms/wezterm-terminfo 20240128.202157 20240203.110809: Terminfo for WezTerm
 x11-themes/banana-cursor 1.0.0: The banana cursor
