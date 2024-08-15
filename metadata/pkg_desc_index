@@ -45,7 +45,7 @@ media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.11.11 2023.12.08: High-performance on-the-fly thumbnailer for mpv
 mpv-plugin/uosc 5.1.1 5.2.0: Feature-rich minimalist proximity-based UI for MPV player
-net-dns/dnsproxy 0.72.1: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+net-dns/dnsproxy 0.72.3: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-im/vesktop-bin 1.5.1 1.5.2: A standalone Electron app that loads Discord & Vencord
 net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
@@ -56,7 +56,7 @@ sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.8 19.1.0_rc1 19.1.0_rc2: Polyhedral
 sys-kernel/cachyos-kernel 6.10.2 6.10.3 6.10.4 6.10.5: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.0.5 1.0.7: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
-sys-kernel/scx 0.1.9 0.1.10 9999: sched_ext schedulers and tools
+sys-kernel/scx 0.1.9 0.1.10 1.0.2 9999: sched_ext schedulers and tools
 sys-kernel/xanmod-sources 6.1.68 6.1.69 6.1.70 6.1.71 6.1.72 6.6.7 6.6.8 6.6.9 6.6.10 6.6.11 6.7.0: Full XanMod sources including the Gentoo patchset
 sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
 virtual/dist-kernel 6.10.2 6.10.3 6.10.4 6.10.5: Virtual to depend on any Distribution Kernel
