@@ -11,6 +11,6 @@ RDEPEND=>=app-arch/xz-utils-5.0.5-r1 >=dev-libs/fribidi-0.19.6 >=dev-libs/gmp-6:
 REQUIRED_USE=!amd64? ( !amf !nvenc !qsv !vaapi ) arm64? ( cpu_flags_arm_v8 ) cpu_flags_arm_v8? ( cpu_flags_arm_vfpv3 cpu_flags_arm_neon ) cpu_flags_arm_neon? ( cpu_flags_arm_vfp arm? ( cpu_flags_arm_thumb2 ) ) cpu_flags_arm_vfpv3? ( cpu_flags_arm_vfp ) cpu_flags_arm_thumb2? ( cpu_flags_arm_v6 ) cpu_flags_arm_v6? ( arm? ( cpu_flags_arm_thumb ) ) cpu_flags_ppc_vsx? ( cpu_flags_ppc_altivec ) cpu_flags_ppc_vsx2? ( cpu_flags_ppc_vsx ) cpu_flags_x86_avx2? ( cpu_flags_x86_avx ) cpu_flags_x86_fma4? ( cpu_flags_x86_avx ) cpu_flags_x86_fma3? ( cpu_flags_x86_avx ) cpu_flags_x86_xop? ( cpu_flags_x86_avx ) cpu_flags_x86_avx? ( cpu_flags_x86_sse4_2 ) cpu_flags_x86_aes? ( cpu_flags_x86_sse4_2 ) cpu_flags_x86_sse4_2? ( cpu_flags_x86_sse4_1 ) cpu_flags_x86_sse4_1? ( cpu_flags_x86_ssse3 ) cpu_flags_x86_ssse3? ( cpu_flags_x86_sse3 ) cpu_flags_x86_sse3? ( cpu_flags_x86_sse2 ) cpu_flags_x86_sse2? ( cpu_flags_x86_sse ) cpu_flags_x86_sse? ( cpu_flags_x86_mmxext ) cpu_flags_x86_mmxext? ( cpu_flags_x86_mmx ) cpu_flags_x86_3dnowext? ( cpu_flags_x86_3dnow ) cpu_flags_x86_3dnow? ( cpu_flags_x86_mmx )
 RESTRICT=!test? ( test )
 SLOT=0
-SRC_URI=https://github.com/jellyfin/jellyfin-ffmpeg/archive/59881f07d0c9c7acfceb68d468bff06f27141572.tar.gz -> jellyfin-ffmpeg-7.0.2.1_pre20240810.tar.gz
+SRC_URI=https://github.com/jellyfin/jellyfin-ffmpeg/archive/acea6976b1899436f52fe39e35d9c25ef49b8c49.tar.gz -> jellyfin-ffmpeg-acea6976.tar.gz
 _eclasses_=toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d
-_md5_=3351538cd821d667ec3600ab8d48d67b
+_md5_=45451eeb4777212b2008c13133062b56
