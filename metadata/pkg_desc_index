@@ -46,7 +46,7 @@ media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.12.08 2024.08.02: High-performance on-the-fly thumbnailer for mpv
 mpv-plugin/uosc 5.1.1 5.2.0: Feature-rich minimalist proximity-based UI for MPV player
-net-dns/dnsproxy 0.72.3: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+net-dns/dnsproxy 0.72.3 0.73.0: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-im/vesktop-bin 1.5.1 1.5.2: A standalone Electron app that loads Discord & Vencord
 net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
