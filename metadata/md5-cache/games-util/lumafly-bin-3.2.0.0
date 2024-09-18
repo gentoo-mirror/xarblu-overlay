@@ -1,0 +1,13 @@
+BDEPEND=app-arch/unzip virtual/imagemagick-tools[png]
+DEFINED_PHASES=install prepare
+DESCRIPTION=A cross platform mod manager for Hollow Knight written in Avalonia
+EAPI=8
+HOMEPAGE=https://themulhima.github.io/Lumafly/
+INHERIT=desktop
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/TheMulhima/Lumafly/releases/download/v3.2.0.0/Lumafly-Linux.zip -> lumafly-bin-3.2.0.0.zip https://raw.githubusercontent.com/TheMulhima/Lumafly/v3.2.0.0/Lumafly/Assets/Lumafly.png -> lumafly-bin-3.2.0.0.png
+_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
+_md5_=75490085ed4d81d55da0dcd4e30702ad
