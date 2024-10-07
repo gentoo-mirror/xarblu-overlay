@@ -138,6 +138,7 @@ net-fs/netdev-automount:networkmanager - Create symlinks for NetworkManager-disp
 sys-kernel/cachyos-kernel:bmq - BMQ Scheduler
 sys-kernel/cachyos-kernel:bore - BORE Scheduler
 sys-kernel/cachyos-kernel:cachyos - CachyOS (BORE + SCHED-EXT) Scheduler
+sys-kernel/cachyos-kernel:clang - Use Clang/LLVM toolchain
 sys-kernel/cachyos-kernel:deckify - CachyOS (BORE + SCHED-EXT) Scheduler + Steam Deck Patches
 sys-kernel/cachyos-kernel:echo - ECHO Scheduler
 sys-kernel/cachyos-kernel:eevdf - EEVDF (Mainline Linux) Scheduler
