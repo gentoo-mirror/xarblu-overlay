@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/TheMulhima/Lumafly/releases/download/v3.2.0.0/Lumafly-Linux.zip -> lumafly-bin-3.2.0.0.zip https://raw.githubusercontent.com/TheMulhima/Lumafly/v3.2.0.0/Lumafly/Assets/Lumafly.png -> lumafly-bin-3.2.0.0.png
-_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=75490085ed4d81d55da0dcd4e30702ad
