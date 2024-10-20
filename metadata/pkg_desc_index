@@ -1,6 +1,6 @@
 app-admin/ananicy-cpp 1.1.1-r4 1.1.1-r5: Ananicy rewritten in C++ for much lower CPU and memory usage
 app-admin/ananicy-rules-cachyos 2024.07.23: ananicy-cpp-rules from CachyOS
-app-admin/goldwarden 0.3.3-r1: A feature-packed Bitwarden compatible desktop client
+app-admin/goldwarden 0.3.3-r1 0.3.4: A feature-packed Bitwarden compatible desktop client
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
