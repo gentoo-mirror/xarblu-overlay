@@ -36,7 +36,7 @@ media-fonts/nerd-fonts 3.2.1: Nerd Fonts is a project that patches fonts with a 
 media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-libs/svt-av1 2.0.0 2.1.0 2.1.1: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
-media-sound/qpwgraph 0.7.7 0.7.8: A PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.7.9: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-ffmpeg 6.0.1.8-r1 7.0.2.4 7.0.2.5: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
@@ -50,7 +50,7 @@ net-vpn/mullvad-vpn-bin 2024.2 2024.3: The Mullvad VPN client app for desktop
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.8 19.1.3: Polyhedral optimizations for LLVM
-sys-kernel/cachyos-kernel 6.10.10 6.11.1-r1 6.11.2 6.11.3 6.11.4 6.11.5: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.11.5 6.11.6: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.0.5 1.0.7 1.0.8: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/scx 0.1.9 0.1.10 1.0.2 9999: sched_ext schedulers and tools
