@@ -17,6 +17,7 @@ dev-python/pystray 0.19.5: Python library for creating system tray icons
 dev-python/python-mpv-jsonipc 1.2.0-r1: Python API to MPV using JSON IPC
 dev-python/tendo 0.4.0: A Python library that extends some core functionality
 dev-util/sccache 0.7.7 0.8.1: ccache/distcc like tool with support for rust and cloud storage
+games-action/prismlauncher 9.1: A custom, open source Minecraft launcher
 games-emulation/melonds 0.9.5_p20240815: Nintendo DS emulator, sorta
 games-misc/lolcat-jaseg 1.5: High-performance implementation of lolcat
 games-util/arrpc 3.4.0: Open Discord RPC server for atypical setups
