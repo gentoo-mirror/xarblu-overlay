@@ -34,7 +34,7 @@ media-fonts/nerd-fonts 3.2.1: Nerd Fonts is a project that patches fonts with a 
 media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
 media-sound/qpwgraph 0.7.9: A PipeWire Graph Qt GUI Interface
-media-video/jellyfin-ffmpeg 6.0.1.8-r1 7.0.2.4 7.0.2.5: FFmpeg for Jellyfin
+media-video/jellyfin-ffmpeg 7.0.2.5 7.0.2.7: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.12.08 2024.08.02: High-performance on-the-fly thumbnailer for mpv
@@ -47,14 +47,14 @@ net-vpn/mullvad-vpn-bin 2024.2 2024.3: The Mullvad VPN client app for desktop
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-devel/polly 15.0.7-r1 16.0.6 17.0.6 18.1.8 19.1.3: Polyhedral optimizations for LLVM
-sys-kernel/cachyos-kernel 6.11.5 6.11.6 6.11.7 6.11.8: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.11.5 6.11.6 6.11.7 6.11.8 6.12.0: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.0.5 1.0.7 1.0.8: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-process/nvtop 3.1.0: (h)top like task monitor for GPUs and accelerators
-virtual/dist-kernel 6.11.5 6.11.6 6.11.7 6.11.8: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.11.5 6.11.6 6.11.7 6.11.8 6.12.0: Virtual to depend on any Distribution Kernel
 virtual/jdk 22: Virtual for Java Development Kit (JDK)
 virtual/jre 22: Virtual for Java Runtime Environment (JRE)
-www-apps/jellyfin-bin 10.9.11 10.10.0-r1 10.10.1: Jellyfin puts you in control of managing and streaming your media
+www-apps/jellyfin-bin 10.10.1 10.10.2: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor
 x11-themes/catppuccin-cursors 0.2.0 0.2.1: Soothing pastel mouse cursors
