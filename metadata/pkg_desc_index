@@ -33,7 +33,7 @@ media-fonts/monaspace 1.101: An innovative superfamily of fonts for code
 media-fonts/nerd-fonts 3.2.1: Nerd Fonts is a project that patches fonts with a high number of glyphs
 media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
-media-sound/qpwgraph 0.7.9: A PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.7.9 0.8.0: A PipeWire Graph Qt GUI Interface
 media-video/jellyfin-ffmpeg 7.0.2.5 7.0.2.7: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
