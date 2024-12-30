@@ -1,6 +1,6 @@
 app-admin/ananicy-cpp 1.1.1-r5: Ananicy rewritten in C++ for much lower CPU and memory usage
 app-admin/ananicy-rules-cachyos 1.0.2: ananicy-cpp-rules from CachyOS
-app-admin/goldwarden 0.3.3-r1 0.3.4: A feature-packed Bitwarden compatible desktop client
+app-admin/goldwarden 0.3.4 0.3.6: A feature-packed Bitwarden compatible desktop client
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
@@ -38,7 +38,7 @@ media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2023.12.08 2024.08.02: High-performance on-the-fly thumbnailer for mpv
 mpv-plugin/uosc 5.5.0 5.6.0 5.7.0: Feature-rich minimalist proximity-based UI for MPV player
-net-dns/dnsproxy 0.72.3 0.73.1: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+net-dns/dnsproxy 0.73.1 0.74.1: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator

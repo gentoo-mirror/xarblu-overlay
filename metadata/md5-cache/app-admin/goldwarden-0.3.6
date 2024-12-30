@@ -1,0 +1,17 @@
+BDEPEND=gui? ( dev-util/blueprint-compiler python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) ) virtual/pkgconfig >=dev-lang/go-1.20:= app-arch/unzip
+DEFINED_PHASES=compile install prepare setup unpack
+DEPEND=fido2? ( dev-libs/libfido2 ) gui? ( python_single_target_python3_11? ( dev-python/pygobject:3[python_targets_python3_11(-)] dev-python/tendo[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/pygobject:3[python_targets_python3_12(-)] dev-python/tendo[python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-python/pygobject:3[python_targets_python3_13(-)] dev-python/tendo[python_targets_python3_13(-)] ) gui-libs/gtk:4 gui-libs/libadwaita x11-themes/adwaita-icon-theme python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) )
+DESCRIPTION=A feature-packed Bitwarden compatible desktop client
+EAPI=8
+HOMEPAGE=https://github.com/quexten/goldwarden
+INHERIT=systemd python-single-r1 desktop wrapper go-module
+IUSE=fido2 +gui python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=fido2? ( dev-libs/libfido2 ) gui? ( python_single_target_python3_11? ( dev-python/pygobject:3[python_targets_python3_11(-)] dev-python/tendo[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/pygobject:3[python_targets_python3_12(-)] dev-python/tendo[python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-python/pygobject:3[python_targets_python3_13(-)] dev-python/tendo[python_targets_python3_13(-)] ) gui-libs/gtk:4 gui-libs/libadwaita x11-themes/adwaita-icon-theme python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) )
+REQUIRED_USE=gui? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/quexten/goldwarden/archive/refs/tags/v0.3.6.tar.gz -> goldwarden-0.3.6.tar.gz https://github.com/xarblu/xarblu-overlay/releases/download/distfiles/goldwarden-0.3.6-deps.tar.xz
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	wrapper	11a2a3bd712784986679b60a0cab34a0	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	go-env	90efbc8636d2f02d9654183330e84cf7	go-module	df32d29550d40a92da723d3b8e17b467
+_md5_=5270b24a79025bc150db5a50c0d2c020
