@@ -1,5 +1,5 @@
 app-admin/ananicy-cpp 1.1.1-r5: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ananicy-rules-cachyos 1.0.2 1.0.5: ananicy-cpp-rules from CachyOS
+app-admin/ananicy-rules-cachyos 1.0.2 1.0.5 1.0.6: ananicy-cpp-rules from CachyOS
 app-admin/goldwarden 0.3.4 0.3.6: A feature-packed Bitwarden compatible desktop client
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
@@ -40,10 +40,10 @@ net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.12.10 6.13.1 6.13.2 6.13.3 6.14_rc3: Linux kernel built with CachyOS and Gentoo patches
-sys-kernel/cachyos-settings 1.1.8 1.1.9: Configuration files and tweaks from CachyOS
+sys-kernel/cachyos-kernel 6.13.3 6.13.4 6.14_rc3: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-settings 1.1.8 1.1.9 1.2.0: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
-virtual/dist-kernel 6.12.10 6.13.1 6.13.2 6.13.3 6.14_rc3: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.13.3 6.13.4 6.14_rc3: Virtual to depend on any Distribution Kernel
 www-apps/jellyfin-bin 10.10.1 10.10.2 10.10.3: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor

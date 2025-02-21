@@ -118,17 +118,17 @@ media-video/jellyfin-mpv-shim:systray - Enable systray support
 mpv-plugin/thumbfast:autoload - Install files to /etc/mpv for autoloading.
 mpv-plugin/uosc:autoload - Symlink files to /etc/mpv for autoloading.
 net-fs/netdev-automount:networkmanager - Create symlinks for NetworkManager-dispatcher
-sys-kernel/cachyos-kernel:bmq - BMQ Scheduler
-sys-kernel/cachyos-kernel:bore - BORE Scheduler
-sys-kernel/cachyos-kernel:cachyos - CachyOS (BORE + SCHED-EXT) Scheduler
+sys-kernel/cachyos-kernel:bmq - Flavour using the BMQ scheduler
+sys-kernel/cachyos-kernel:bore - Flavour using the BORE scheduler
+sys-kernel/cachyos-kernel:cachyos - Default CachyOS flavour
 sys-kernel/cachyos-kernel:clang - Use Clang/LLVM toolchain
-sys-kernel/cachyos-kernel:deckify - CachyOS (BORE + SCHED-EXT) Scheduler + Steam Deck Patches
-sys-kernel/cachyos-kernel:eevdf - EEVDF (Mainline Linux) Scheduler
+sys-kernel/cachyos-kernel:deckify - Default CachyOS flavour with extra tweaks/patches for handhelds
+sys-kernel/cachyos-kernel:eevdf - Flavour using the EEVDF (mainline Linux) scheduler
 sys-kernel/cachyos-kernel:generic-uki - Build and install a generic initramfs and Unified Kernel Image, this is intended for building binpkgs with a pre-generated UKI included (EXPERIMENTAL).
-sys-kernel/cachyos-kernel:hardened - BORE Scheduler + Hardening Patches
+sys-kernel/cachyos-kernel:hardened - Default CachyOS flavour with extra hardening patches
 sys-kernel/cachyos-kernel:initramfs - Build initramfs along with the kernel.
-sys-kernel/cachyos-kernel:rt-bore - BORE Scheduler + RT Patches
-sys-kernel/cachyos-kernel:server - EEVDF Scheduler + Server Tuning
+sys-kernel/cachyos-kernel:rt-bore - Flavour using the BORE scheduler and realtime preemption
+sys-kernel/cachyos-kernel:server - Flavour usind the EEVDF scheduler tuned for servers
 sys-kernel/cachyos-settings:zram - Enable ZRAM configs via sys-apps/zram-generator
 www-apps/jellyfin-bin:intro-skipper - Setup index.html for the intro-skipper plugin
 www-apps/jellyfin-bin:vendored-ffmpeg - Use patched media-video/jellyfin-ffmpeg
