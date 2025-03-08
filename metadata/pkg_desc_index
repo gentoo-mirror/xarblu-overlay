@@ -1,5 +1,5 @@
 app-admin/ananicy-cpp 1.1.1-r5: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ananicy-rules-cachyos 1.0.2 1.0.5 1.0.6: ananicy-cpp-rules from CachyOS
+app-admin/ananicy-rules-cachyos 1.0.7: ananicy-cpp-rules from CachyOS
 app-admin/goldwarden 0.3.4 0.3.6: A feature-packed Bitwarden compatible desktop client
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
@@ -18,7 +18,7 @@ games-util/arrpc 3.4.0: Open Discord RPC server for atypical setups
 games-util/evdevhook2 1.0.2: Cemuhook UDP server for devices with modern Linux drivers
 games-util/lumafly-bin 3.2.0.0: A cross platform mod manager for Hollow Knight written in Avalonia
 games-util/mangohud 0.7.2-r1 0.8.0 0.8.1: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
-kde-misc/Burn-My-Windows 42 44: Disintegrate your windows with style
+kde-misc/Burn-My-Windows 44 45: Disintegrate your windows with style
 kde-misc/geometry-change 1.3: A KWin animation for windows moved or resized by programs or scripts
 kde-misc/kde-rounded-corners 0.7.0 0.7.1: Rounds the corners of your windows in KDE Plasma 6
 kde-misc/kwin-effects-forceblur 1.3.4 1.3.6: KWin Blur effect for KDE Plasma 6 to blur any window
@@ -28,7 +28,7 @@ media-fonts/monaspace 1.101 1.200: An innovative superfamily of fonts for code
 media-fonts/nerd-fonts 3.2.1 3.3.0-r1: Nerd Fonts is a project that patches fonts with a high number of glyphs
 media-fonts/twemoji 15.1.0: A color emoji font with a flat visual style
 media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm and Kitty
-media-sound/qpwgraph 0.7.9 0.8.0 0.8.1: A PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.8.1 0.8.2: A PipeWire Graph Qt GUI Interface
 media-video/immich-go 0.24.2 0.24.5: Tool to streamline uploading large photo collections to your Immich server
 media-video/jellyfin-ffmpeg 7.0.2.7 7.0.2.8: FFmpeg for Jellyfin
 media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
@@ -41,10 +41,10 @@ net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.13.3 6.13.4 6.13.5 6.14_rc3 6.14_rc4-r1 6.14_rc5 6.14_rc5-r1: Linux kernel built with CachyOS and Gentoo patches
-sys-kernel/cachyos-settings 1.2.0 1.2.1: Configuration files and tweaks from CachyOS
+sys-kernel/cachyos-kernel 6.13.4 6.13.5 6.13.6 6.14_rc5-r1: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-settings 1.2.0 1.2.1 1.2.2: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
-virtual/dist-kernel 6.13.3 6.13.4 6.13.5 6.14_rc3 6.14_rc4 6.14_rc5: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.13.4 6.13.5 6.13.6 6.14_rc5: Virtual to depend on any Distribution Kernel
 www-apps/jellyfin-bin 10.10.1 10.10.2 10.10.3: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor
