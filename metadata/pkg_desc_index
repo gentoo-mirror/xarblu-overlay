@@ -7,7 +7,7 @@ app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
-app-misc/topgrade 16.0.1 16.0.2: Upgrade all the things
+app-misc/topgrade 16.0.2 16.0.3: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2-r1: fastest text uwuifier in the west
 app-portage/portcache 0.1.0 0.2.1 0.3.0: WIP Portage Distfiles Cache
@@ -44,7 +44,7 @@ net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.13.4 6.13.5 6.13.6 6.13.7 6.14.0 6.14.0-r1: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.13.6 6.13.7 6.14.0-r2: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.3 1.2.4: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 virtual/dist-kernel 6.13.4 6.13.5 6.13.6 6.13.7 6.14.0: Virtual to depend on any Distribution Kernel
