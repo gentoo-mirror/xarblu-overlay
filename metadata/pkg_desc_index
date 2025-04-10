@@ -12,9 +12,9 @@ app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu tren
 app-misc/uwuify 0.2.2-r1: fastest text uwuifier in the west
 app-portage/portcache 0.1.0 0.2.1 0.3.0: WIP Portage Distfiles Cache
 dev-libs/libcdio-paranoia 2.0.2: an advanced CDDA reader with error correction
-dev-python/jellyfin-apiclient-python 1.9.2-r1: Python API Client for Jellyfin
-dev-python/pystray 0.19.5: Python library for creating system tray icons
-dev-python/python-mpv-jsonipc 1.2.0-r1: Python API to MPV using JSON IPC
+dev-python/jellyfin-apiclient-python 1.9.2-r1 1.11.0: Python API Client for Jellyfin
+dev-python/pystray 0.19.5-r1: Python library for creating system tray icons
+dev-python/python-mpv-jsonipc 1.2.0-r1 1.2.1: Python API to MPV using JSON IPC
 dev-python/tendo 0.4.0: A Python library that extends some core functionality
 games-misc/lolcat-jaseg 1.5: High-performance implementation of lolcat
 games-util/arrpc 3.4.0: Open Discord RPC server for atypical setups
@@ -34,7 +34,7 @@ media-gfx/viu 1.4.0 1.5.0: Terminal image viewer with native support for iTerm a
 media-sound/qpwgraph 0.8.2 0.8.3: A PipeWire Graph Qt GUI Interface
 media-video/immich-go 0.24.6 0.25.2: Tool to streamline uploading large photo collections to your Immich server
 media-video/jellyfin-ffmpeg 7.0.2.7 7.0.2.8: FFmpeg for Jellyfin
-media-video/jellyfin-mpv-shim 2.8.0: MPV Cast Client for Jellyfin
+media-video/jellyfin-mpv-shim 2.8.0 2.9.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2024.08.02 2025.02.04: High-performance on-the-fly thumbnailer for mpv
 mpv-plugin/uosc 5.7.0 5.8.0: Feature-rich minimalist proximity-based UI for MPV player
@@ -44,10 +44,10 @@ net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.13.6 6.13.7 6.14.0-r2 6.14.1 6.15_rc1: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.13.6 6.13.7 6.14.0-r2 6.14.1 6.14.2 6.15_rc1: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.3 1.2.4: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
-virtual/dist-kernel 6.13.6 6.13.7 6.14.0 6.14.1 6.15_rc1: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.13.6 6.13.7 6.14.0 6.14.1 6.14.2 6.15_rc1: Virtual to depend on any Distribution Kernel
 www-apps/jellyfin-bin 10.10.1 10.10.2 10.10.3: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor
