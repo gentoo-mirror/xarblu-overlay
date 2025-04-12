@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=net-libs/nodejs
 SLOT=0
 SRC_URI=https://github.com/OpenAsar/arrpc/archive/refs/tags/3.4.0.tar.gz -> arrpc-3.4.0.tar.gz https://registry.npmjs.org/ws/-/ws-8.11.0.tgz https://registry.npmjs.org/bufferutil/-/bufferutil-4.0.1.tgz https://registry.npmjs.org/utf-8-validate/-/utf-8-validate-5.0.2.tgz
-_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0	wrapper	11a2a3bd712784986679b60a0cab34a0
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	54bd206bb5c4efac6ae28b6b006713b0	wrapper	11a2a3bd712784986679b60a0cab34a0
 _md5_=48745377b20f1c6e24b79dc50c7be8e5
