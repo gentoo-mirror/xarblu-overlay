@@ -1,0 +1,13 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm prepare setup
+DESCRIPTION=A color emoji font with a flat visual style
+EAPI=8
+HOMEPAGE=https://github.com/jdecked/twemoji
+INHERIT=font desktop
+IUSE=icons X
+KEYWORDS=~amd64
+LICENSE=Apache-2.0 CC-BY-4.0
+SLOT=0
+SRC_URI=https://github.com/JoeBlakeB/ttf-twemoji-aur/releases/download/16.0.1/Twemoji-16.0.1.ttf https://github.com/JoeBlakeB/ttf-twemoji-aur/archive/16.0.1.tar.gz -> twemoji-16.0.1-aur.tar.gz icons? ( https://github.com/jdecked/twemoji/archive/v16.0.1.tar.gz -> twemoji-16.0.1-icons.tar.gz )
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
+_md5_=efa8a533c668d98539579f7bfbdb28ec
