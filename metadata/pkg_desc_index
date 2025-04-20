@@ -40,7 +40,7 @@ mpv-plugin/thumbfast 2024.08.02 2025.02.04: High-performance on-the-fly thumbnai
 mpv-plugin/uosc 5.7.0 5.8.0: Feature-rich minimalist proximity-based UI for MPV player
 net-dns/dnsproxy 0.75.1 0.75.2: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
-net-misc/linux-discord-rpc 1.1 2.1 2.2: Custom Discord Rich Presence for Linux
+net-misc/linux-discord-rpc 2.2-r1: Custom Discord Rich Presence for Linux
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
