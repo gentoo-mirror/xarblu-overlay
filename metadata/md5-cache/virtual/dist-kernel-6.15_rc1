@@ -1,6 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=Virtual to depend on any Distribution Kernel
-EAPI=8
-RDEPEND=|| ( ~sys-kernel/gentoo-kernel-6.15_rc1 ~sys-kernel/gentoo-kernel-bin-6.15_rc1 ~sys-kernel/vanilla-kernel-6.15_rc1 ~sys-kernel/cachyos-kernel-6.15_rc1 )
-SLOT=0/6.15_rc1
-_md5_=e12e56e66d7f879d8a289b46e689aa9d
