@@ -39,9 +39,11 @@ media-fonts/ibm-plex:ttf - Install TTF fonts
 media-fonts/monaspace:variable - Install variable width fonts
 media-fonts/nerd-fonts:0xproto - Install 0xproto font
 media-fonts/nerd-fonts:3270 - Install 3270 font
+media-fonts/nerd-fonts:adwaitamono - Install AdwaitaMono font
 media-fonts/nerd-fonts:agave - Install Agave font
 media-fonts/nerd-fonts:anonymouspro - Install AnonymousPro font
 media-fonts/nerd-fonts:arimo - Install Arimo font
+media-fonts/nerd-fonts:atkinsonhyperlegiblemono - Install AtkinsonHyperlegibleMono font
 media-fonts/nerd-fonts:aurulentsansmono - Install AurulentSansMono font
 media-fonts/nerd-fonts:bigblueterminal - Install BigBlueTerminal font
 media-fonts/nerd-fonts:bitstreamverasansmono - Install BitstreamVeraSansMono font
