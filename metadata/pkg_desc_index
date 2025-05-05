@@ -45,10 +45,10 @@ net-misc/linux-discord-rpc 2.2-r1: Custom Discord Rich Presence for Linux
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.14.2 6.14.3 6.14.4 6.14.5 6.15_rc2-r1 6.15_rc3 6.15_rc4 6.15_rc4-r1: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.14.2 6.14.3 6.14.4 6.14.5 6.15_rc2-r1 6.15_rc3 6.15_rc4 6.15_rc4-r1 6.15_rc5: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.3 1.2.4: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
-virtual/dist-kernel 6.14.2 6.14.3 6.14.4 6.14.5 6.15_rc2 6.15_rc3 6.15_rc4: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.14.2 6.14.3 6.14.4 6.14.5 6.15_rc2 6.15_rc3 6.15_rc4 6.15_rc5: Virtual to depend on any Distribution Kernel
 www-apps/jellyfin-bin 10.10.1 10.10.2 10.10.3: Jellyfin puts you in control of managing and streaming your media
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor
