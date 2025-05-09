@@ -8,6 +8,6 @@ KEYWORDS=~amd64
 LICENSE=MIT
 RDEPEND=app-portage/eix dev-lang/perl
 SLOT=0
-SRC_URI=https://github.com/xarblu/sysbits/archive/refs/tags/v3.tar.gz -> sysbits-3.tar.gz
+SRC_URI=https://github.com/xarblu/sysbits/archive/refs/tags/v4.tar.gz -> sysbits-4.tar.gz
 _eclasses_=optfeature	538bce96e5589935b57e178e8635f301	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=48a83d4b8bf429df6cef95cae6d4269f
