@@ -46,7 +46,7 @@ net-misc/studip 0_p20250506: A toy Stud.IP client
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.14.5 6.14.6 6.15_rc5 6.15_rc6: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.14.5 6.14.6 6.15_rc5 6.15_rc6 6.15_rc6-r1: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.3 1.2.4: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 virtual/dist-kernel 6.14.5 6.14.6 6.15_rc5 6.15_rc6: Virtual to depend on any Distribution Kernel
