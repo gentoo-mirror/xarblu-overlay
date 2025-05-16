@@ -6,6 +6,11 @@ app-admin/ananicy-cpp:bpf - Use eBPF for processing
 app-admin/ananicy-cpp:cachyos-rules - Pull in rules from app-admin/ananicy-rules-cachyos
 app-admin/ananicy-cpp:clang - Use Clang compiler instead of GCC
 app-admin/goldwarden:fido2 - Add FIDO2 support via dev-libs/libfido2
+app-misc/sysbits:betas - Pull in bits for very bleeding edge updates
+app-misc/sysbits:clang - Pull in Clang/LLVM specific bits and fixes
+app-misc/sysbits:desktop - Pull in common desktop bits
+app-misc/sysbits:desktop-extra - Pull in desktop specific bits
+app-misc/sysbits:laptop-extra - Pull in laptop specific bits
 app-misc/uwufetch:X - Get screen resolution via x11-apps/xwininfo
 app-misc/uwufetch:gpu - Better accuracy on GPU info via sys-apps/lshw
 app-misc/uwufetch:images - Support images via media-gfx/viu
