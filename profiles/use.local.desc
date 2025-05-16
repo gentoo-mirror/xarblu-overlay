@@ -111,13 +111,6 @@ media-fonts/twemoji:icons - Install Twemoji icon theme
 media-gfx/viu:sixel - Experimental Sixel support
 media-sound/qpwgraph:alsa - Support routing ALSA raw midi devices
 media-sound/qpwgraph:trayicon - Enable systray icon (window close will iconify instead of exit)
-media-video/jellyfin-ffmpeg:amf - Enables support for AMD's Advanced Media Framework (AMF)
-media-video/jellyfin-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
-media-video/jellyfin-ffmpeg:mipsdspr1 - Enables MIPS DSP ASE R1 optimizations.
-media-video/jellyfin-ffmpeg:mipsdspr2 - Enables MIPS DSP ASE R2 optimizations.
-media-video/jellyfin-ffmpeg:mipsfpu - Enables floating point MIPS optimizations.
-media-video/jellyfin-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
-media-video/jellyfin-ffmpeg:qsv - Enable Intel Quick Sync Video via media-libs/libvpl.
 media-video/jellyfin-mpv-shim:shaders - Install the default shader pack
 media-video/jellyfin-mpv-shim:systray - Enable systray support
 mpv-plugin/thumbfast:autoload - Install files to /etc/mpv for autoloading.
@@ -135,8 +128,6 @@ sys-kernel/cachyos-kernel:initramfs - Build initramfs along with the kernel.
 sys-kernel/cachyos-kernel:rt-bore - Flavour using the BORE scheduler and realtime preemption
 sys-kernel/cachyos-kernel:server - Flavour usind the EEVDF scheduler tuned for servers
 sys-kernel/cachyos-settings:zram - Enable ZRAM configs via sys-apps/zram-generator
-www-apps/jellyfin-bin:intro-skipper - Setup index.html for the intro-skipper plugin
-www-apps/jellyfin-bin:vendored-ffmpeg - Use patched media-video/jellyfin-ffmpeg
 x11-themes/catppuccin-cursors:frappe - Frappe flavour of Catppuccin
 x11-themes/catppuccin-cursors:latte - Latte flavour of Catppuccin
 x11-themes/catppuccin-cursors:macchiato - Macchiato flavour of Catppuccin
