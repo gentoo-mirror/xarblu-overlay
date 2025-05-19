@@ -1,14 +1,14 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl] virtual/pkgconfig
-DEFINED_PHASES=install postinst unpack
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst unpack
 DESCRIPTION=Collection of random system bits
 EAPI=8
 HOMEPAGE=https://github.com/xarblu/sysbits
-INHERIT=git-r3 optfeature systemd
+INHERIT=git-r3 optfeature
 IUSE=betas clang desktop desktop-extra laptop-extra
 LICENSE=MIT
 PROPERTIES=live
 RDEPEND=app-portage/eix dev-lang/perl
 REQUIRED_USE=desktop-extra? ( desktop ) laptop-extra? ( desktop )
 SLOT=0
-_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	optfeature	538bce96e5589935b57e178e8635f301	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	a964c0cbe818b5729da1dbfcee5be861
-_md5_=d0008f6aee0c790eb6c3fca051d550b2
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	optfeature	538bce96e5589935b57e178e8635f301
+_md5_=447efa9a3cf0bd623746d150ae2748c7
