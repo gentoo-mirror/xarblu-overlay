@@ -9,4 +9,4 @@ KEYWORDS=-* ~amd64
 SLOT=0
 SRC_URI=https://github.com/CommandMC/StudIP/archive/6a6874555f111bcd0aaba22352dc304d49d9f09d.tar.gz -> studip-0_p20250506.tar.gz https://github.com/xarblu/xarblu-overlay/releases/download/distfiles/studip-0_p20250506-node_modules.tar.xz https://github.com/electron/electron/releases/download/v35.2.2/electron-v35.2.2-linux-x64.zip -> studip-0_p20250506-electron-v35.2.2-linux-x64.zip https://github.com/electron-userland/electron-builder-binaries/releases/download/appimage-12.0.1/appimage-12.0.1.7z -> studip-0_p20250506-appimage-12.0.1.7z https://github.com/electron-userland/electron-builder-binaries/releases/download/fpm-1.9.3-2.3.1-linux-x86_64/fpm-1.9.3-2.3.1-linux-x86_64.7z -> studip-0_p20250506-fpm-1.9.3-2.3.1-linux-x86_64.7z
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	chromium-2	3bebf8c71f3acd4070d63b098c45a7f1	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	wrapper	11a2a3bd712784986679b60a0cab34a0
-_md5_=0f6d4933a0d25196065f10ea83130b15
+_md5_=72572b68c14d3627d880f1e87e589a46
