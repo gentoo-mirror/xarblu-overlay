@@ -41,7 +41,7 @@ mpv-plugin/uosc 5.7.0 5.8.0 5.9.0 5.9.1: Feature-rich minimalist proximity-based
 net-dns/dnsproxy 0.75.2 0.75.4 0.75.5: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-misc/linux-discord-rpc 2.2-r1: Custom Discord Rich Presence for Linux
-net-misc/studip 0_p20250506: A toy Stud.IP client
+net-misc/studip 0_p20250506 0_p20250506-r1: A toy Stud.IP client
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
