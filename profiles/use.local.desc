@@ -11,6 +11,7 @@ app-misc/sysbits:clang - Pull in Clang/LLVM specific bits and fixes
 app-misc/sysbits:desktop - Pull in common desktop bits
 app-misc/sysbits:desktop-extra - Pull in desktop specific bits
 app-misc/sysbits:laptop-extra - Pull in laptop specific bits
+app-misc/sysbits:server - Pull in server specific bits
 app-misc/uwufetch:X - Get screen resolution via x11-apps/xwininfo
 app-misc/uwufetch:gpu - Better accuracy on GPU info via sys-apps/lshw
 app-misc/uwufetch:images - Support images via media-gfx/viu
