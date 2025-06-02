@@ -45,7 +45,7 @@ net-misc/linux-discord-rpc 2.2-r1: Custom Discord Rich Presence for Linux
 net-misc/studip 0_p20250506 0_p20250506-r2: A toy Stud.IP client
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
-sys-apps/mission-center 0.6.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
+sys-apps/mission-center 0.6.2 1.0.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
 sys-kernel/cachyos-kernel 6.14.5 6.14.6 6.14.7 6.14.8 6.15_rc6-r1 6.15_rc7 6.15.0: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.3 1.2.4: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
