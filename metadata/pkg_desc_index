@@ -39,7 +39,7 @@ media-video/immich-go 0.25.2 0.25.3 0.26.0 0.26.2 0.26.3: Tool to streamline upl
 media-video/jellyfin-mpv-shim 2.8.0 2.9.0: MPV Cast Client for Jellyfin
 media-video/jellyfin-mpv-shim-default-shader-pack 2.0.0 2.1.0: Preconfigured set of MPV shaders and configs for MPV Shim media clients.
 mpv-plugin/thumbfast 2024.08.02 2025.02.04: High-performance on-the-fly thumbnailer for mpv
-mpv-plugin/uosc 5.9.1 5.9.2: Feature-rich minimalist proximity-based UI for MPV player
+mpv-plugin/uosc 5.9.1 5.9.2 5.10.0: Feature-rich minimalist proximity-based UI for MPV player
 net-dns/dnsproxy 0.75.2 0.75.4 0.75.5: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-misc/linux-discord-rpc 2.2-r1: Custom Discord Rich Presence for Linux
