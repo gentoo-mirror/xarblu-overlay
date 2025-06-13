@@ -9,7 +9,7 @@ app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
 app-misc/fclones 0.35.0: Efficient Duplicate File Finder
 app-misc/sysbits 9999: Collection of random system bits
-app-misc/topgrade 16.0.2 16.0.3: Upgrade all the things
+app-misc/topgrade 16.0.3 16.0.4: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2-r1: fastest text uwuifier in the west
 app-portage/portcache 0.3.0 0.4.0: Portage Distfiles Cache
