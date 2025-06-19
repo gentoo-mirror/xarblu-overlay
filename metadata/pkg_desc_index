@@ -13,7 +13,7 @@ app-misc/topgrade 16.0.3 16.0.4: Upgrade all the things
 app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace
 app-misc/uwuify 0.2.2-r1: fastest text uwuifier in the west
 app-portage/portcache 0.3.0 0.4.0: Portage Distfiles Cache
-app-portage/portpresence 0.2.0 0.3.0: Discord Rich Presence for Portage
+app-portage/portpresence 0.2.0 0.3.0 0.3.2: Discord Rich Presence for Portage
 dev-libs/libcdio-paranoia 2.0.2: an advanced CDDA reader with error correction
 dev-python/jellyfin-apiclient-python 1.9.2-r1 1.11.0: Python API Client for Jellyfin
 dev-python/pystray 0.19.5-r1: Python library for creating system tray icons
