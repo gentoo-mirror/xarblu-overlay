@@ -27,7 +27,7 @@ games-util/mangohud 0.7.2-r1 0.8.0 0.8.1: Vulkan and OpenGL overlay for monitori
 kde-misc/Burn-My-Windows 44 45: Disintegrate your windows with style
 kde-misc/geometry-change 1.3 1.4 1.5: A KWin animation for windows moved or resized by programs or scripts
 kde-misc/kde-rounded-corners 0.7.0 0.7.1 0.7.2: Rounds the corners of your windows in KDE Plasma 6
-kde-misc/kwin-effects-forceblur 1.3.4 1.3.6: KWin Blur effect for KDE Plasma 6 to blur any window
+kde-misc/kwin-effects-forceblur 1.3.4 1.3.6 1.4.0: KWin Blur effect for KDE Plasma 6 to blur any window
 llvm-core/polly 15.0.7-r1 16.0.6 17.0.6 18.1.8 19.1.4 19.1.7: Polyhedral optimizations for LLVM
 media-fonts/ibm-plex 1.0.0 1.1.0: The package of IBM's typeface
 media-fonts/monaspace 1.101 1.200: An innovative superfamily of fonts for code
