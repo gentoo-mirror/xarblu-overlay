@@ -7,6 +7,7 @@ app-admin/ananicy-cpp:cachyos-rules - Pull in rules from app-admin/ananicy-rules
 app-admin/ananicy-cpp:clang - Use Clang compiler instead of GCC
 app-admin/goldwarden:fido2 - Add FIDO2 support via dev-libs/libfido2
 app-misc/sysbits:betas - Pull in bits for very bleeding edge updates
+app-misc/sysbits:binpkg-build-host - Setup binpkg host bits
 app-misc/sysbits:binpkg-client - Setup binpkg repo
 app-misc/sysbits:clang - Pull in Clang/LLVM specific bits and fixes
 app-misc/sysbits:desktop - Pull in common desktop bits
