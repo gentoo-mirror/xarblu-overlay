@@ -18,6 +18,7 @@ app-misc/uwufetch:X - Get screen resolution via x11-apps/xwininfo
 app-misc/uwufetch:gpu - Better accuracy on GPU info via sys-apps/lshw
 app-misc/uwufetch:images - Support images via media-gfx/viu
 games-util/evdevhook2:battery - Battery status reporting via sys-power/upower
+games-util/gamescope-session:steam - Pull in Steam session via games-util/gamescope-session-steam
 games-util/mangohud:mangoapp - Build MangoApp for use with gui-wm/gamescope
 games-util/mangohud:mangohudctl - Build MangoHudCTL
 games-util/mangohud:mangoplot - Install MangoPlot and its dependencies
