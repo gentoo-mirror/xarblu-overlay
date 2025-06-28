@@ -9,4 +9,4 @@ RDEPEND=games-util/gamescope-session games-util/steam-launcher
 SLOT=0
 SRC_URI=https://github.com/bazzite-org/gamescope-session-steam/archive/f655d12ae3ef168e9521ba87a2a1bd032fae6001.tar.gz -> gamescope-session-steam-0_p20250314.gh.tar.gz
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
-_md5_=5011fdc06ae172cded807235a7c561c1
+_md5_=9fc46f70475bcd3c58db3bf628425c11

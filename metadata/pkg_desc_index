@@ -23,7 +23,7 @@ games-misc/lolcat-jaseg 1.5: High-performance implementation of lolcat
 games-util/arrpc 3.4.0: Open Discord RPC server for atypical setups
 games-util/evdevhook2 1.0.2: Cemuhook UDP server for devices with modern Linux drivers
 games-util/gamescope-session 0_p20250526: GamerOS session on Gamescope
-games-util/gamescope-session-steam 0_p20250314: Steam session for games-util/gamescope-session
+games-util/gamescope-session-steam 0_p20250314-r1: Steam session for games-util/gamescope-session
 games-util/lumafly-bin 3.2.0.0: A cross platform mod manager for Hollow Knight written in Avalonia
 games-util/mangohud 0.7.2-r1 0.8.0 0.8.1: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
 kde-misc/Burn-My-Windows 44 45: Disintegrate your windows with style
