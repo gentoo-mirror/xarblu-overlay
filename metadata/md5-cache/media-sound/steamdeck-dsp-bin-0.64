@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Steamdeck Audio Processing
+EAPI=8
+HOMEPAGE=https://steamdeck-packages.steamos.cloud/archlinux-mirror/jupiter-main/os/x86_64/
+INHERIT=unpacker
+KEYWORDS=~amd64
+LICENSE=BSD-3
+RDEPEND=media-libs/alsa-ucm-conf media-libs/lv2 media-video/pipewire media-video/wireplumber
+SLOT=0
+SRC_URI=https://steamdeck-packages.steamos.cloud/archlinux-mirror/jupiter-main/os/x86_64/steamdeck-dsp-0.64-1-any.pkg.tar.zst
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
+_md5_=67365ccb333f3eaa0ea59489186879e0
