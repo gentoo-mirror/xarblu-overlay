@@ -9,4 +9,4 @@ RDEPEND=media-libs/alsa-ucm-conf media-libs/lv2 media-video/pipewire[lv2] media-
 SLOT=0
 SRC_URI=https://steamdeck-packages.steamos.cloud/archlinux-mirror/jupiter-main/os/x86_64/steamdeck-dsp-0.64-1-any.pkg.tar.zst
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
-_md5_=bf2d131b0b20152354fac78ee6dc5934
+_md5_=3d8c2e4682bfd72a9f97616961ec49fb
