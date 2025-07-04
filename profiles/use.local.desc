@@ -129,6 +129,7 @@ net-fs/netdev-automount:networkmanager - Create symlinks for NetworkManager-disp
 sys-kernel/cachyos-kernel:bmq - Flavour using the BMQ scheduler
 sys-kernel/cachyos-kernel:bore - Flavour using the BORE scheduler
 sys-kernel/cachyos-kernel:cachyos - Default CachyOS flavour
+sys-kernel/cachyos-kernel:cfi - Enables Clang's forward-edge Control Flow Integrity (CFI) checking
 sys-kernel/cachyos-kernel:clang - Use Clang/LLVM toolchain
 sys-kernel/cachyos-kernel:deckify - Default CachyOS flavour with extra tweaks/patches for handhelds
 sys-kernel/cachyos-kernel:eevdf - Flavour using the EEVDF (mainline Linux) scheduler
