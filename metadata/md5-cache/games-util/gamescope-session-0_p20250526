@@ -10,5 +10,5 @@ LICENSE=MIT
 RDEPEND=gui-wm/gamescope sys-power/switcheroo-control steam? ( games-util/gamescope-session-steam )
 SLOT=0
 SRC_URI=https://github.com/bazzite-org/gamescope-session/archive/9089e7abbdbca0094c94faab2efc5e34535ca18b.tar.gz -> gamescope-session-0_p20250526.gh.tar.gz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	a964c0cbe818b5729da1dbfcee5be861
+_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=ad4e47af11decce5f84a098542a61add
