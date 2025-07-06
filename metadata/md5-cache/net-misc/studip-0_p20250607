@@ -1,13 +1,13 @@
-BDEPEND=app-arch/p7zip app-arch/unzip net-libs/nodejs
+BDEPEND=app-arch/unzip net-libs/nodejs app-arch/xz-utils || ( app-arch/7zip app-arch/p7zip ) app-arch/unzip
 DEFINED_PHASES=compile install prepare setup unpack
 DESCRIPTION=A toy Stud.IP client
 EAPI=8
 HOMEPAGE=https://github.com/CommandMC/StudIP
-INHERIT=chromium-2 desktop wrapper
+INHERIT=chromium-2 desktop wrapper unpacker
 IUSE=+l10n_af +l10n_am +l10n_ar +l10n_bg +l10n_bn +l10n_ca +l10n_cs +l10n_da +l10n_de +l10n_el +l10n_en-GB +l10n_en-US +l10n_es +l10n_es-419 +l10n_et +l10n_fa +l10n_fi +l10n_fil +l10n_fr +l10n_gu +l10n_he +l10n_hi +l10n_hr +l10n_hu +l10n_id +l10n_it +l10n_ja +l10n_kn +l10n_ko +l10n_lt +l10n_lv +l10n_ml +l10n_mr +l10n_ms +l10n_nb +l10n_nl +l10n_pl +l10n_pt-BR +l10n_pt-PT +l10n_ro +l10n_ru +l10n_sk +l10n_sl +l10n_sr +l10n_sv +l10n_sw +l10n_ta +l10n_te +l10n_th +l10n_tr +l10n_uk +l10n_ur +l10n_vi +l10n_zh-CN +l10n_zh-TW
 KEYWORDS=-* ~amd64
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=https://github.com/CommandMC/StudIP/archive/4020de4b62c3cf8cdfaf11328a491146940ee98b.tar.gz -> studip-0_p20250607.tar.gz https://github.com/xarblu/xarblu-overlay/releases/download/distfiles/studip-0_p20250607-node_modules.tar.xz https://github.com/electron/electron/releases/download/v36.4.0/electron-v36.4.0-linux-x64.zip -> studip-0_p20250607-electron-v36.4.0-linux-x64.zip https://github.com/electron-userland/electron-builder-binaries/releases/download/appimage-12.0.1/appimage-12.0.1.7z -> studip-0_p20250607-appimage-12.0.1.7z https://github.com/electron-userland/electron-builder-binaries/releases/download/fpm-1.9.3-2.3.1-linux-x86_64/fpm-1.9.3-2.3.1-linux-x86_64.7z -> studip-0_p20250607-fpm-1.9.3-2.3.1-linux-x86_64.7z https://github.com/electron-userland/electron-builder-binaries/releases/download/snap-template-4.0-2/snap-template-electron-4.0-2-amd64.tar.7z -> studip-0_p20250607-snap-template-electron-1.9.3-2.3.1-linux-x86_64-amd64.7z
-_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	linux-info	efd923656513c879204fec6638eadee5	chromium-2	3bebf8c71f3acd4070d63b098c45a7f1	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	wrapper	11a2a3bd712784986679b60a0cab34a0
-_md5_=29a488be6889215f8f9eb59f4fafa445
+_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	linux-info	efd923656513c879204fec6638eadee5	chromium-2	3bebf8c71f3acd4070d63b098c45a7f1	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	wrapper	11a2a3bd712784986679b60a0cab34a0	multiprocessing	1e32df7deee68372153dca65f4a7c21f	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
+_md5_=2ef47fd097686bb77f138b7454b18f3c
