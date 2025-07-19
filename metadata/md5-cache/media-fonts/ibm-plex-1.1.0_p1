@@ -1,0 +1,14 @@
+BDEPEND=app-arch/unzip X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm prepare setup
+DESCRIPTION=The package of IBM's typeface
+EAPI=8
+HOMEPAGE=https://github.com/IBM/plex
+INHERIT=font
+IUSE=cjk cjk cjk cjk variable otf +ttf variable X
+KEYWORDS=~amd64 ~x86
+LICENSE=OFL-1.1
+REQUIRED_USE=^^ ( otf ttf ) variable? ( ttf )
+SLOT=0
+SRC_URI=https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-math%401.1.0/ibm-plex-math.zip -> ibm-plex-math-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-mono%401.1.0/ibm-plex-mono.zip -> ibm-plex-mono-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-arabic%401.1.0/ibm-plex-sans-arabic.zip -> ibm-plex-sans-arabic-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-condensed%401.1.0/ibm-plex-sans-condensed.zip -> ibm-plex-sans-condensed-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-devanagari%401.1.0/ibm-plex-sans-devanagari.zip -> ibm-plex-sans-devanagari-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-hebrew%401.1.0/ibm-plex-sans-hebrew.zip -> ibm-plex-sans-hebrew-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-thai-looped%401.1.0/ibm-plex-sans-thai-looped.zip -> ibm-plex-sans-thai-looped-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-thai%401.1.0/ibm-plex-sans-thai.zip -> ibm-plex-sans-thai-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans%401.1.0/ibm-plex-sans.zip -> ibm-plex-sans-1.1.0.zip https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-serif%401.1.0/ibm-plex-serif.zip -> ibm-plex-serif-1.1.0.zip cjk? ( https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-jp%402.0.0/ibm-plex-sans-jp.zip -> ibm-plex-sans-jp-2.0.0.zip ) cjk? ( https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-kr%401.1.0/ibm-plex-sans-kr.zip -> ibm-plex-sans-kr-1.1.0.zip ) cjk? ( https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-sc%401.1.0/ibm-plex-sans-sc.zip -> ibm-plex-sans-sc-1.1.0.zip ) cjk? ( https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-tc%401.1.1/ibm-plex-sans-tc.zip -> ibm-plex-sans-tc-1.1.1.zip ) variable? ( https://github.com/IBM/plex/releases/download/%40ibm%2Fplex-sans-variable%400.2.0/plex-sans-variable.zip -> plex-sans-variable-0.2.0.zip )
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=e17247fa22ac6a994b6668cf879d9741
