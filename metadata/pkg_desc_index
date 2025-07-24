@@ -20,7 +20,7 @@ dev-python/pystray 0.19.5-r1: Python library for creating system tray icons
 dev-python/python-mpv-jsonipc 1.2.0-r1 1.2.1: Python API to MPV using JSON IPC
 dev-python/tendo 0.4.0: A Python library that extends some core functionality
 games-misc/lolcat-jaseg 1.5: High-performance implementation of lolcat
-games-util/ProtonPlus 0.5.10: A modern compatibility tools manager
+games-util/ProtonPlus 0.5.10 0.5.11: A modern compatibility tools manager
 games-util/arrpc 3.4.0: Open Discord RPC server for atypical setups
 games-util/evdevhook2 1.0.2: Cemuhook UDP server for devices with modern Linux drivers
 games-util/gamescope-session 0_p20250526: GamerOS session on Gamescope
@@ -52,7 +52,7 @@ sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulato
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2 1.0.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
 sys-kernel/cachyos-kernel 6.15.4-r2 6.15.5 6.15.6 6.15.7 6.16_rc6 6.16_rc7: Linux kernel built with CachyOS and Gentoo patches
-sys-kernel/cachyos-settings 1.2.5 1.2.6: Configuration files and tweaks from CachyOS
+sys-kernel/cachyos-settings 1.2.5 1.2.6 1.2.7: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/steamdeck-firmware 1.2.3: Steamdeck Firmware (from CachyOS)
 virtual/dist-kernel 6.15.4 6.15.5 6.15.6 6.15.7 6.16_rc6 6.16_rc7: Virtual to depend on any Distribution Kernel

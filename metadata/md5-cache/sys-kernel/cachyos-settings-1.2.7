@@ -1,0 +1,15 @@
+BDEPEND=virtual/pkgconfig virtual/pkgconfig
+DEFINED_PHASES=install postinst postrm
+DESCRIPTION=Configuration files and tweaks from CachyOS
+EAPI=8
+HOMEPAGE=https://github.com/CachyOS/CachyOS-Settings
+INHERIT=udev tmpfiles systemd
+IUSE=systemd zram
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=app-shells/bash sys-apps/hdparm sys-apps/pciutils sys-process/procps virtual/udev zram? ( sys-apps/zram-generator app-arch/zstd ) virtual/tmpfiles
+REQUIRED_USE=zram? ( systemd )
+SLOT=0
+SRC_URI=https://github.com/CachyOS/CachyOS-Settings/archive/refs/tags/1.2.7.tar.gz -> cachyos-settings-1.2.7.tar.gz
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	udev	f3d9a4376ebd22131726a68e1a0a058f	tmpfiles	9a9814db5a3fbd4f1e921c05297e7735	systemd	a964c0cbe818b5729da1dbfcee5be861
+_md5_=c94b774827fbf147e2ac5bd3e5de9793
