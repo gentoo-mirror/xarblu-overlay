@@ -20,7 +20,7 @@ dev-python/pystray 0.19.5-r1: Python library for creating system tray icons
 dev-python/python-mpv-jsonipc 1.2.0-r1 1.2.1: Python API to MPV using JSON IPC
 dev-python/tendo 0.4.0: A Python library that extends some core functionality
 games-misc/lolcat-jaseg 1.5: High-performance implementation of lolcat
-games-util/ProtonPlus 0.5.10 0.5.11: A modern compatibility tools manager
+games-util/ProtonPlus 0.5.10 0.5.11 0.5.12: A modern compatibility tools manager
 games-util/arrpc 3.4.0: Open Discord RPC server for atypical setups
 games-util/evdevhook2 1.0.2: Cemuhook UDP server for devices with modern Linux drivers
 games-util/gamescope-session 0_p20250526: GamerOS session on Gamescope
