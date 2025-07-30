@@ -44,6 +44,8 @@ kde-misc/Burn-My-Windows:team-rocket - ... is blasting off again!
 kde-misc/Burn-My-Windows:tv - Make windows close like turning off a TV
 kde-misc/Burn-My-Windows:tv-glitch - Make your windows close like a very glitchy old-school TV
 kde-misc/Burn-My-Windows:wisps - Let your windows be carried away to the realm of dreams by these little fairies
+kde-misc/kde-rounded-corners:X - Build the effect for kde-plasma/kwin-x11 (6.4+)
+kde-misc/kde-rounded-corners:wayland - Build the effect for kde-plasma/kwin (6.4+)
 media-fonts/ibm-plex:otf - Install OTF fonts
 media-fonts/ibm-plex:ttf - Install TTF fonts
 media-fonts/ibm-plex:variable - Install variable width fonts
