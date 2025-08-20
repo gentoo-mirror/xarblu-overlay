@@ -129,6 +129,7 @@ media-video/jellyfin-mpv-shim:systray - Enable systray support
 mpv-plugin/thumbfast:autoload - Install files to /etc/mpv for autoloading.
 mpv-plugin/uosc:autoload - Symlink files to /etc/mpv for autoloading.
 net-fs/netdev-automount:networkmanager - Create symlinks for NetworkManager-dispatcher
+sys-kernel/cachyos-kernel:bcachefs - Pull in latest bcachefs patches from https://evilpiepirate.org/git/bcachefs.git/ (UNOFFICIAL)
 sys-kernel/cachyos-kernel:bmq - Flavour using the BMQ scheduler
 sys-kernel/cachyos-kernel:bore - Flavour using the BORE scheduler
 sys-kernel/cachyos-kernel:cachyos - Default CachyOS flavour
