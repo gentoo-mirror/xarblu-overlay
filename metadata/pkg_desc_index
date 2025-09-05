@@ -1,13 +1,13 @@
 acct-group/portcache 0: System group: portcache
 acct-user/portcache 0: System user: portcache
 app-admin/ananicy-cpp 1.1.1-r5: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ananicy-rules-cachyos 1.0.7 1.0.9: ananicy-cpp-rules from CachyOS
+app-admin/ananicy-rules-cachyos 1.0.7 1.0.9 1.1.0: ananicy-cpp-rules from CachyOS
 app-admin/goldwarden 0.3.4 0.3.6: A feature-packed Bitwarden compatible desktop client
 app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
-app-misc/e6sync 0.0.7 0.0.8: Downloader for the funny number site
+app-misc/e6sync 0.0.8 0.0.9: Downloader for the funny number site
 app-misc/fclones 0.35.0: Efficient Duplicate File Finder
 app-misc/sysbits 9999: Collection of random system bits
 app-misc/topgrade 16.0.3 16.0.4: Upgrade all the things
@@ -52,11 +52,11 @@ net-misc/studip 0_p20250607: A toy Stud.IP client
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2 1.0.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.16.1 6.16.2 6.16.3 6.16.4 6.17_rc2 6.17_rc3 6.17_rc4: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.16.4 6.16.5 6.17_rc3 6.17_rc4: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.7 1.2.9 1.2.10: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/steamdeck-firmware 1.2.3: Steamdeck Firmware (from CachyOS)
-virtual/dist-kernel 6.16.1 6.16.2 6.16.3 6.16.4 6.17_rc2 6.17_rc3 6.17_rc4: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.16.4 6.16.5 6.17_rc3 6.17_rc4: Virtual to depend on any Distribution Kernel
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor
 x11-themes/catppuccin-cursors 0.2.0 0.2.1: Soothing pastel mouse cursors
