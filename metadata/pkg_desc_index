@@ -7,7 +7,7 @@ app-admin/profile-cleaner 2.44 2.45: Vacuum and reindex browser sqlite databases
 app-editors/cli-hex-editor 1.1_alpha 9999: A rudimentary CLI hex editor programmed in C, probably not memory safe
 app-editors/kile 3.0_beta4: Latex Editor and TeX shell based on KDE Frameworks
 app-misc/e621_downloader 1.7.2: E621 and E926 downloader made in the Rust programming language.
-app-misc/e6sync 0.0.13 0.0.14: Downloader for the funny number site
+app-misc/e6sync 0.0.14 0.0.15: Downloader for the funny number site
 app-misc/fclones 0.35.0: Efficient Duplicate File Finder
 app-misc/sysbits 9999: Collection of random system bits
 app-misc/topgrade 16.0.3 16.0.4: Upgrade all the things
