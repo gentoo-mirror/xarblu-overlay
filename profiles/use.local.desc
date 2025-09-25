@@ -137,7 +137,6 @@ sys-kernel/cachyos-kernel:cfi - Enables Clang's forward-edge Control Flow Integr
 sys-kernel/cachyos-kernel:clang - Use Clang/LLVM toolchain
 sys-kernel/cachyos-kernel:deckify - Default CachyOS flavour with extra tweaks/patches for handhelds
 sys-kernel/cachyos-kernel:eevdf - Flavour using the EEVDF (mainline Linux) scheduler
-sys-kernel/cachyos-kernel:generic-uki - Build and install a generic initramfs and Unified Kernel Image, this is intended for building binpkgs with a pre-generated UKI included (EXPERIMENTAL).
 sys-kernel/cachyos-kernel:hardened - Default CachyOS flavour with extra hardening patches
 sys-kernel/cachyos-kernel:initramfs - Build initramfs along with the kernel.
 sys-kernel/cachyos-kernel:rt-bore - Flavour using the BORE scheduler and realtime preemption
