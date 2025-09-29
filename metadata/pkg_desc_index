@@ -30,7 +30,7 @@ games-util/lumafly-bin 3.2.0.0: A cross platform mod manager for Hollow Knight w
 games-util/mangohud 0.7.2-r1 0.8.0 0.8.1: Vulkan and OpenGL overlay for monitoring FPS, sensors, system load and more
 kde-misc/Burn-My-Windows 44 45: Disintegrate your windows with style
 kde-misc/geometry-change 1.3 1.4 1.5: A KWin animation for windows moved or resized by programs or scripts
-kde-misc/kde-rounded-corners 0.7.2 0.8.0 0.8.1: Rounds the corners of your windows in KDE Plasma 6
+kde-misc/kde-rounded-corners 0.7.2 0.8.0 0.8.1 0.8.5: Rounds the corners of your windows in KDE Plasma 6
 kde-misc/kwin-effects-forceblur 1.4.0 1.5.0: KWin Blur effect for KDE Plasma 6 to blur any window
 llvm-core/polly 15.0.7-r1 16.0.6 17.0.6 18.1.8 19.1.4 19.1.7: Polyhedral optimizations for LLVM
 media-fonts/ibm-plex 1.1.0_p1 1.1.0_p2-r1: The package of IBM's typeface
@@ -52,11 +52,11 @@ net-misc/studip 0_p20250607: A toy Stud.IP client
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2 1.0.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-kernel/cachyos-kernel 6.16.4 6.16.5 6.16.6 6.16.7 6.16.8 6.16.9 6.17_rc5-r1 6.17_rc6 6.17_rc7: Linux kernel built with CachyOS and Gentoo patches
+sys-kernel/cachyos-kernel 6.16.7 6.16.8 6.16.9 6.17.0: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.7 1.2.9 1.2.10 1.2.11: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/steamdeck-firmware 1.2.3: Steamdeck Firmware (from CachyOS)
-virtual/dist-kernel 6.16.4 6.16.5 6.16.6 6.16.7 6.16.8 6.16.9 6.17_rc5 6.17_rc6 6.17_rc7: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.16.7 6.16.8 6.16.9 6.17.0: Virtual to depend on any Distribution Kernel
 www-misc/profile-sync-daemon 6.49 6.50: Symlinks and syncs browser profile dirs to RAM
 x11-themes/banana-cursor 1.0.0: The banana cursor
 x11-themes/catppuccin-cursors 0.2.0 0.2.1: Soothing pastel mouse cursors
