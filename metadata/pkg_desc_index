@@ -52,8 +52,8 @@ net-misc/studip 0_p20250607: A toy Stud.IP client
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2 1.0.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-fs/bcachefs-tools 1.31.6: Tools for bcachefs
-sys-kernel/cachyos-kernel 6.16.7 6.16.8 6.16.9 6.17.0 6.17.0-r1: Linux kernel built with CachyOS and Gentoo patches
+sys-fs/bcachefs-tools 1.31.6 1.31.7: Tools for bcachefs
+sys-kernel/cachyos-kernel 6.16.7 6.16.8 6.16.9 6.17.0 6.17.0-r1 6.17.0-r2: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.7 1.2.9 1.2.10 1.2.11: Configuration files and tweaks from CachyOS
 sys-kernel/kernelscripts 6.0-r2: Basic scripts to manage kernels on Gentoo Linux
 sys-kernel/steamdeck-firmware 1.2.3: Steamdeck Firmware (from CachyOS)
