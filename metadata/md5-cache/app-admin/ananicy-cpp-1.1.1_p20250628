@@ -1,0 +1,16 @@
+BDEPEND=>=dev-build/cmake-3.17 clang? ( >=llvm-core/clang-20 ) app-alternatives/ninja >=dev-build/cmake-3.28.5
+DEFINED_PHASES=compile configure install prepare setup test
+DEPEND=!app-admin/ananicy >=dev-cpp/nlohmann_json-3.9 >=dev-libs/libfmt-8:= >=dev-libs/spdlog-1.9:= bpf? ( dev-libs/elfutils dev-libs/libbpf:= dev-util/bpftool ) cachyos-rules? ( app-admin/ananicy-rules-cachyos ) systemd? ( sys-apps/systemd )
+DESCRIPTION=Ananicy rewritten in C++ for much lower CPU and memory usage
+EAPI=8
+HOMEPAGE=https://gitlab.com/ananicy-cpp/ananicy-cpp
+INHERIT=cmake linux-info
+IUSE=bpf cachyos-rules clang systemd
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=!app-admin/ananicy >=dev-cpp/nlohmann_json-3.9 >=dev-libs/libfmt-8:= >=dev-libs/spdlog-1.9:= bpf? ( dev-libs/elfutils dev-libs/libbpf:= dev-util/bpftool ) cachyos-rules? ( app-admin/ananicy-rules-cachyos ) systemd? ( sys-apps/systemd )
+REQUIRED_USE=bpf? ( clang )
+SLOT=0
+SRC_URI=https://gitlab.com/ananicy-cpp/ananicy-cpp/-/archive/7fb9ed828edad85fe89359feafd8565831cb342f/ananicy-cpp-7fb9ed828edad85fe89359feafd8565831cb342f.tar.bz2
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	3d9a5fc17dadea162813d5d8918328b4	linux-info	efd923656513c879204fec6638eadee5
+_md5_=5fad95b815612c614ae62e91a4356f7c
